@@ -1,0 +1,2810 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Simple Days\n"
+"POT-Creation-Date: 2018-09-19 21:22+0900\n"
+"PO-Revision-Date: 2018-03-31 09:51+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgid "%1$s COMMENTS"
+msgstr ""
+
+#: comments.php:36
+msgid "COMMENT"
+msgstr ""
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:64 comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:70
+msgid "Post a comment"
+msgstr ""
+
+#: footer.php:44
+msgid "Site Map"
+msgstr ""
+
+#: functions.php:94
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:95
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:597
+msgid "Simple Days Social Profile"
+msgstr ""
+
+#: functions.php:611 inc/customizer.php:2819
+#: inc/widget-another-profile.php:254 inc/widget-social-links.php:169
+#, php-format
+msgid "Social Icon #%s"
+msgstr ""
+
+#: functions.php:629 inc/widget-another-profile.php:265
+#, php-format
+msgid "Social URL #%s"
+msgstr ""
+
+#: functions.php:653 inc/customizer.php:2369 inc/customizer.php:2751
+msgid "Display Style"
+msgstr ""
+
+#: functions.php:665 inc/customizer.php:2383 inc/customizer.php:2762
+#: inc/widget-another-profile.php:222 inc/widget-social-links.php:125
+msgid "Icon Size"
+msgstr ""
+
+#: functions.php:676 inc/customizer.php:2394 inc/customizer.php:2775
+#: inc/widget-another-profile.php:232 inc/widget-social-links.php:136
+msgid "Specifies the color of the icon."
+msgstr ""
+
+#: functions.php:682 inc/customizer.php:2403 inc/customizer.php:2784
+#: inc/widget-another-profile.php:236 inc/widget-social-links.php:140
+msgid "Specifies the color of hover."
+msgstr ""
+
+#: functions.php:688 inc/customizer.php:2413 inc/customizer.php:2794
+#: inc/widget-another-profile.php:242 inc/widget-social-links.php:146
+msgid "Tool tip"
+msgstr ""
+
+#: functions.php:692 inc/customizer.php:204 inc/customizer.php:215
+#: inc/customizer.php:226 inc/customizer.php:981 inc/customizer.php:992
+#: inc/customizer.php:1291 inc/customizer.php:1302 inc/customizer.php:1931
+#: inc/customizer.php:2122 inc/customizer.php:2222 inc/customizer.php:2232
+#: inc/customizer.php:2242 inc/customizer.php:2252 inc/customizer.php:2262
+#: inc/customizer.php:2272 inc/customizer.php:2412 inc/customizer.php:2567
+#: inc/customizer.php:2639 inc/customizer.php:2649 inc/customizer.php:2737
+#: inc/customizer.php:2793 inc/customizer.php:2838 inc/customizer.php:2848
+#: inc/customizer.php:2941 inc/customizer.php:2970 inc/customizer.php:3070
+#: inc/customizer.php:3080 inc/customizer.php:3095 inc/customizer.php:3105
+#: inc/customizer.php:3218 inc/customizer.php:3255 inc/customizer.php:3325
+#: inc/customizer.php:3356 inc/customizer.php:3402 inc/customizer.php:3451
+#: inc/customizer.php:3474 inc/customizer.php:3504 inc/customizer.php:3531
+#: inc/customizer.php:3646 inc/customizer.php:3746 inc/customizer.php:3758
+#: inc/customizer.php:3834
+msgid "Enable"
+msgstr ""
+
+#: functions.php:913
+msgid "Reply"
+msgstr ""
+
+#: functions.php:916
+msgid "Edit"
+msgstr ""
+
+#: functions.php:929
+msgid "*Your comment is awaiting moderation.*"
+msgstr ""
+
+#: functions.php:941
+msgid "h1"
+msgstr ""
+
+#: functions.php:941 functions.php:942 functions.php:943 functions.php:944
+#: functions.php:945 functions.php:946
+msgid "Heading "
+msgstr ""
+
+#: functions.php:942
+msgid "h2"
+msgstr ""
+
+#: functions.php:943
+msgid "h3"
+msgstr ""
+
+#: functions.php:944
+msgid "h4"
+msgstr ""
+
+#: functions.php:945
+msgid "h5"
+msgstr ""
+
+#: functions.php:946
+msgid "h6"
+msgstr ""
+
+#: functions.php:947
+msgid "BOX (info)"
+msgstr ""
+
+#: functions.php:947 functions.php:948 functions.php:949 functions.php:950
+msgid "Notification"
+msgstr ""
+
+#: functions.php:948
+msgid "BOX (Success)"
+msgstr ""
+
+#: functions.php:949
+msgid "BOX (Warning)"
+msgstr ""
+
+#: functions.php:950
+msgid "BOX (Danger)"
+msgstr ""
+
+#: functions.php:952
+msgid "pre code"
+msgstr ""
+
+#: functions.php:952
+msgid "Code"
+msgstr ""
+
+#: header.php:83 searchform.php:16
+msgid "Search"
+msgstr ""
+
+#: inc/author-profile.php:13
+msgid "About the author"
+msgstr ""
+
+#: inc/author-profile.php:15
+msgid "Latest posts"
+msgstr ""
+
+#: inc/breadcrumbs.php:11
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:141
+msgid "Author archive for "
+msgstr ""
+
+#: inc/breadcrumbs.php:186 inc/breadcrumbs.php:192
+#, php-format
+msgid "Search query for: %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:192 inc/breadcrumbs.php:204
+#, php-format
+msgid " ( Page %s )"
+msgstr ""
+
+#: inc/breadcrumbs.php:197
+msgid "Error 404"
+msgstr ""
+
+#: inc/breadcrumbs.php:234 inc/header_meta-json.php:16
+msgid "No title"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Simple Days settings"
+msgstr ""
+
+#: inc/customizer.php:26 inc/customizer.php:143 inc/customizer.php:712
+#: inc/customizer.php:2080
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Box Style"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Flat"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Shadow"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "the separator for the document title."
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "to be single column when you type post id."
+msgstr ""
+
+#: inc/customizer.php:134 inc/widget_postlist-popular.php:209
+#: inc/widget_postlist-popular.php:213
+#: inc/widget_postlist-recent_thum.php:117
+#: inc/widget_postlist-recent_thum.php:121
+#: inc/widget_postlist-recommend.php:88 inc/widget_postlist-update.php:157
+#: inc/widget_postlist-update.php:161
+msgid " Multiple id must be seperated by a comma."
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "(Header)"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Title and Menu Layout"
+msgstr ""
+
+#: inc/customizer.php:152
+msgid "One row Left Title Right Menu"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "One row Left Menu Right Title"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Two rows Up Title Down Menu"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Two rows Up Menu Down Title"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Title display position ( when Two rows )"
+msgstr ""
+
+#: inc/customizer.php:179 inc/customizer.php:193 inc/customizer.php:754
+#: inc/customizer.php:810 inc/customizer.php:837 inc/customizer.php:907
+#: inc/customizer.php:1015 inc/customizer.php:1068 inc/customizer.php:1326
+#: inc/customizer.php:1379 inc/customizer.php:1730 inc/customizer.php:1961
+#: inc/customizer.php:2926
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:180 inc/customizer.php:194 inc/customizer.php:908
+#: inc/customizer.php:1731 inc/customizer.php:2927
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:181 inc/customizer.php:195 inc/customizer.php:755
+#: inc/customizer.php:811 inc/customizer.php:838 inc/customizer.php:909
+#: inc/customizer.php:1016 inc/customizer.php:1069 inc/customizer.php:1327
+#: inc/customizer.php:1380 inc/customizer.php:1732 inc/customizer.php:1962
+#: inc/customizer.php:2928
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Menu display position ( when Two rows )"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Sticky header"
+msgstr ""
+
+#: inc/customizer.php:216
+msgid "Display header shadow"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid "Display search button in header for mobile user"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer.php:261
+msgid "Anaglyph"
+msgstr ""
+
+#: inc/customizer.php:262
+msgid "Brick Sign"
+msgstr ""
+
+#: inc/customizer.php:263
+msgid "Canvas Print"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "Crackle"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Decaying"
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "Destruction"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Distressed"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Distressed Wood"
+msgstr ""
+
+#: inc/customizer.php:269
+msgid "Emboss"
+msgstr ""
+
+#: inc/customizer.php:270
+msgid "Fire"
+msgstr ""
+
+#: inc/customizer.php:271
+msgid "Fire Animation"
+msgstr ""
+
+#: inc/customizer.php:272
+msgid "Fragile"
+msgstr ""
+
+#: inc/customizer.php:273
+msgid "Grass"
+msgstr ""
+
+#: inc/customizer.php:274
+msgid "Ice"
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Mitosis"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "Neon"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Outline"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Putting Green"
+msgstr ""
+
+#: inc/customizer.php:279
+msgid "Scuffed Steel"
+msgstr ""
+
+#: inc/customizer.php:280
+msgid "Shadow Multiple"
+msgstr ""
+
+#: inc/customizer.php:281
+msgid "Splintered"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Static"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Stonewash"
+msgstr ""
+
+#: inc/customizer.php:284
+msgid "Three Dimensional"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Three Dimensional Float"
+msgstr ""
+
+#: inc/customizer.php:286
+msgid "Vintage"
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Wallpaper"
+msgstr ""
+
+#: inc/customizer.php:295 inc/customizer.php:352
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: inc/customizer.php:306 inc/customizer.php:364 inc/customizer.php:466
+#: inc/customizer.php:543
+msgctxt "font"
+msgid "Body"
+msgstr ""
+
+#: inc/customizer.php:317 inc/customizer.php:378 inc/customizer.php:478
+#: inc/customizer.php:556
+msgctxt "font"
+msgid "Headings"
+msgstr ""
+
+#: inc/customizer.php:328 inc/customizer.php:391 inc/customizer.php:419
+#: inc/customizer.php:490 inc/customizer.php:568 inc/customizer.php:596
+msgctxt "font"
+msgid "Site title"
+msgstr ""
+
+#: inc/customizer.php:339 inc/customizer.php:406 inc/customizer.php:431
+#: inc/customizer.php:503 inc/customizer.php:583 inc/customizer.php:608
+msgctxt "font"
+msgid "Post title"
+msgstr ""
+
+#: inc/customizer.php:350 inc/customizer.php:449
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer.php:352 inc/customizer.php:449 inc/customizer.php:518
+#, php-format
+msgid "This selection overrides %s."
+msgstr ""
+
+#: inc/customizer.php:419 inc/customizer.php:431 inc/customizer.php:596
+#: inc/customizer.php:608
+msgid "(Effect)"
+msgstr ""
+
+#: inc/customizer.php:447 inc/customizer.php:518
+msgid "Local Fonts Japanese"
+msgstr ""
+
+#: inc/customizer.php:455
+msgid ""
+"Verdana, \"YuGothic\", YuGothic, \"Hiragino Kaku Gothic ProN W3\", "
+"\"Hiragino Kaku Gothic ProN\", \"Meiryo\", Meiryo, sans-serif"
+msgstr ""
+
+#: inc/customizer.php:456
+msgid ""
+"\"Times New Roman\", \"YuMincho\", YuMincho, \"Hiragino Mincho ProN W3\", "
+"\"Hiragino Mincho ProN\", \"Meiryo\", Meiryo, serif"
+msgstr ""
+
+#: inc/customizer.php:457
+msgid "\"Osaka\", Osaka-mono, \"MS Gothic\", \"MS Gothic\", monospace"
+msgstr ""
+
+#: inc/customizer.php:458
+msgid ""
+"Verdana, Roboto, \"Droid Sans\", \"YuGothic\", YuGothic, \"Hiragino Kaku "
+"Gothic ProN W3\", \"Hiragino Kaku Gothic ProN\", \"Meiryo\", Meiryo, sans-"
+"serif"
+msgstr ""
+
+#: inc/customizer.php:516
+msgid "Google Fonts Japanese"
+msgstr ""
+
+#: inc/customizer.php:526
+msgid "Sawarabi Mincho"
+msgstr ""
+
+#: inc/customizer.php:527
+msgid "Sawarabi Gothic"
+msgstr ""
+
+#: inc/customizer.php:530
+msgid "Hannari"
+msgstr ""
+
+#: inc/customizer.php:531
+msgid "Kokoro"
+msgstr ""
+
+#: inc/customizer.php:532
+msgid "Nikukyu"
+msgstr ""
+
+#: inc/customizer.php:533
+msgid "Nico Moji"
+msgstr ""
+
+#: inc/customizer.php:701
+msgid "Index Page"
+msgstr ""
+
+#: inc/customizer.php:713
+msgid "Choose a layout for the blog posts."
+msgstr ""
+
+#: inc/customizer.php:717
+msgid "List layout"
+msgstr ""
+
+#: inc/customizer.php:721
+msgid "Two grid layout"
+msgstr ""
+
+#: inc/customizer.php:725
+msgid "Three grid layout"
+msgstr ""
+
+#: inc/customizer.php:749
+msgid "Thumbnail display position"
+msgstr ""
+
+#: inc/customizer.php:754
+msgid "(Up)"
+msgstr ""
+
+#: inc/customizer.php:755
+msgid "(Down)"
+msgstr ""
+
+#: inc/customizer.php:756 inc/customizer.php:812 inc/customizer.php:839
+#: inc/customizer.php:910 inc/customizer.php:1017 inc/customizer.php:1070
+#: inc/customizer.php:1328 inc/customizer.php:1381 inc/customizer.php:1963
+#: inc/customizer.php:2173 inc/customizer.php:2192 inc/customizer.php:2202
+#: inc/customizer.php:2873 inc/customizer.php:3195
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:777
+msgid "post date display format"
+msgstr ""
+
+#: inc/customizer.php:781
+msgid "day-month-year"
+msgstr ""
+
+#: inc/customizer.php:782
+msgid "month-day-year"
+msgstr ""
+
+#: inc/customizer.php:791
+msgid "post date display shape"
+msgstr ""
+
+#: inc/customizer.php:792
+msgid "around of a line appear rounded or squared"
+msgstr ""
+
+#: inc/customizer.php:796 inc/customizer.php:2691
+#: inc/widget-another-profile.php:167
+msgid "Circle"
+msgstr ""
+
+#: inc/customizer.php:797 inc/customizer.php:2692
+#: inc/widget-another-profile.php:168
+msgid "Square"
+msgstr ""
+
+#: inc/customizer.php:806 inc/customizer.php:1064 inc/customizer.php:1375
+msgid "Post date display position"
+msgstr ""
+
+#: inc/customizer.php:833
+msgid "Post category display position"
+msgstr ""
+
+#: inc/customizer.php:858
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/customizer.php:859 inc/customizer.php:3849 inc/customizer.php:3860
+#: inc/customizer.php:3871 inc/customizer.php:3882 inc/customizer.php:3894
+#: inc/customizer.php:3906 inc/customizer.php:3918 inc/customizer.php:3929
+#: inc/customizer.php:3940 inc/customizer.php:3952 inc/customizer.php:3964
+#: inc/customizer.php:3976
+msgid "default&#58;"
+msgstr ""
+
+#: inc/customizer.php:872
+msgid "Ellipsis"
+msgstr ""
+
+#: inc/customizer.php:903
+msgid "Read More display position"
+msgstr ""
+
+#: inc/customizer.php:919
+msgid "How to Insert Index list widget area"
+msgstr ""
+
+#: inc/customizer.php:923
+msgid "Just after post"
+msgstr ""
+
+#: inc/customizer.php:924
+msgid "Every post"
+msgstr ""
+
+#: inc/customizer.php:934
+msgid "Count of post for above configuring"
+msgstr ""
+
+#: inc/customizer.php:950
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer.php:970 inc/customizer.php:1192 inc/customizer.php:1214
+#: inc/customizer.php:1280 inc/customizer.php:1491 inc/customizer.php:1502
+#: inc/customizer.php:1513 inc/customizer.php:1704 inc/customizer.php:1973
+#: inc/customizer.php:2519 inc/customizer.php:2529 inc/customizer.php:2557
+#: inc/customizer.php:2577
+msgid "Display"
+msgstr ""
+
+#: inc/customizer.php:971 inc/customizer.php:1281
+#: inc/widget_postlist-popular.php:203
+#: inc/widget_postlist-recent_thum.php:111
+#: inc/widget_postlist-recommend.php:100 inc/widget_postlist-update.php:151
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/customizer.php:982
+msgid "Post title over the thumbnail."
+msgstr ""
+
+#: inc/customizer.php:993 inc/customizer.php:1303
+msgid "Full width thumbnail at under the header."
+msgstr ""
+
+#: inc/customizer.php:1011 inc/customizer.php:1322
+msgid "Author display position"
+msgstr ""
+
+#: inc/customizer.php:1026 inc/customizer.php:1337
+msgid "Author icon"
+msgstr ""
+
+#: inc/customizer.php:1079 inc/customizer.php:1390
+msgid "Display method Post date"
+msgstr ""
+
+#: inc/customizer.php:1083 inc/customizer.php:1394
+msgid "Only Date"
+msgstr ""
+
+#: inc/customizer.php:1084 inc/customizer.php:1395
+msgid "Date hide when post have update."
+msgstr ""
+
+#: inc/customizer.php:1085 inc/customizer.php:1396
+msgid "Both"
+msgstr ""
+
+#: inc/customizer.php:1094 inc/customizer.php:1405
+msgid "Date icon"
+msgstr ""
+
+#: inc/customizer.php:1113 inc/customizer.php:1424
+msgid "Update icon"
+msgstr ""
+
+#: inc/customizer.php:1142 inc/customizer.php:1451
+msgid "Category icon"
+msgstr ""
+
+#: inc/customizer.php:1167 inc/customizer.php:1476
+msgid "Tag icon"
+msgstr ""
+
+#: inc/customizer.php:1193 inc/customizer.php:1503
+msgid "About the author(Author profile)"
+msgstr ""
+
+#: inc/customizer.php:1215 inc/related_posts.php:60
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer.php:1225
+msgid "Related Posts view count."
+msgstr ""
+
+#: inc/customizer.php:1226
+msgid "(min1 max18)"
+msgstr ""
+
+#: inc/customizer.php:1247 inc/customizer.php:1568
+msgid "Reorder Sections"
+msgstr ""
+
+#: inc/customizer.php:1248 inc/customizer.php:1569
+msgid "drag the columns to rearrange their order."
+msgstr ""
+
+#: inc/customizer.php:1262
+msgctxt "customizer"
+msgid "Page"
+msgstr ""
+
+#: inc/customizer.php:1292
+msgid "Page title over the thumbnail."
+msgstr ""
+
+#: inc/customizer.php:1492 inc/customizer.php:2370
+msgid "Social share"
+msgstr ""
+
+#: inc/customizer.php:1514 inc/related_pages.php:65
+msgid "Related Pages"
+msgstr ""
+
+#: inc/customizer.php:1514
+msgid "The plugin [Pages with category and tag] is needed"
+msgstr ""
+
+#: inc/customizer.php:1537 inc/customizer.php:3669
+#, php-format
+msgid "Install Plugin [ %s ]"
+msgstr ""
+
+#: inc/customizer.php:1537 inc/customizer.php:1539
+msgid "Pages with category and tag"
+msgstr ""
+
+#: inc/customizer.php:1550
+msgid "Related Pages view count."
+msgstr ""
+
+#: inc/customizer.php:1551
+msgid "multiples of 3 (min3 max18)"
+msgstr ""
+
+#: inc/customizer.php:1578
+msgid "Menu Icon"
+msgstr ""
+
+#: inc/customizer.php:1591
+msgid "FontAwesome 4 Icon List"
+msgstr ""
+
+#: inc/customizer.php:1591
+msgid "You need full icons?"
+msgstr ""
+
+#: inc/customizer.php:1600
+msgid "Header Menu Icon"
+msgstr ""
+
+#: inc/customizer.php:1615 inc/customizer.php:1664
+#, php-format
+msgid "Icon #%s"
+msgstr ""
+
+#: inc/customizer.php:1627 inc/customizer.php:1676
+#, php-format
+msgid "Icon color #%s"
+msgstr ""
+
+#: inc/customizer.php:1636 inc/customizer.php:1685
+msgid "after icon"
+msgstr ""
+
+#: inc/customizer.php:1650
+msgid "Footer Menu Icon"
+msgstr ""
+
+#: inc/customizer.php:1696
+msgid "Alert Box"
+msgstr ""
+
+#: inc/customizer.php:1715
+msgid "Text"
+msgstr ""
+
+#: inc/customizer.php:1726
+msgid "Text display position"
+msgstr ""
+
+#: inc/customizer.php:1740
+msgid "Text Size"
+msgstr ""
+
+#: inc/customizer.php:1849
+msgid "Heading icon"
+msgstr ""
+
+#: inc/customizer.php:1859
+msgid "Ending icon"
+msgstr ""
+
+#: inc/customizer.php:1870
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer.php:1879 inc/customizer.php:3847
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:1890
+msgid "Border Type"
+msgstr ""
+
+#: inc/customizer.php:1894
+msgid "none"
+msgstr ""
+
+#: inc/customizer.php:1895
+msgid "Solid"
+msgstr ""
+
+#: inc/customizer.php:1896
+msgid "Double"
+msgstr ""
+
+#: inc/customizer.php:1897
+msgid "Groove"
+msgstr ""
+
+#: inc/customizer.php:1898
+msgid "Ridge"
+msgstr ""
+
+#: inc/customizer.php:1899
+msgid "Inset"
+msgstr ""
+
+#: inc/customizer.php:1900
+msgid "Outset"
+msgstr ""
+
+#: inc/customizer.php:1901
+msgid "Dashed"
+msgstr ""
+
+#: inc/customizer.php:1902
+msgid "Dotted"
+msgstr ""
+
+#: inc/customizer.php:1910
+msgid "Border width"
+msgstr ""
+
+#: inc/customizer.php:1923
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer.php:1932
+msgid "Border is inside"
+msgstr ""
+
+#: inc/customizer.php:1948
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:1957
+msgid "Breadcrumbs display position"
+msgstr ""
+
+#: inc/customizer.php:1974
+msgid "Current name"
+msgstr ""
+
+#: inc/customizer.php:1987
+msgid "Delimiter"
+msgstr ""
+
+#: inc/customizer.php:2010
+msgid "Home icon"
+msgstr ""
+
+#: inc/customizer.php:2033
+msgid "Tree icon"
+msgstr ""
+
+#: inc/customizer.php:2056
+msgid "Current icon"
+msgstr ""
+
+#: inc/customizer.php:2080
+msgid "(Footer)"
+msgstr ""
+
+#: inc/customizer.php:2090
+msgid "Footer Menu Layout"
+msgstr ""
+
+#: inc/customizer.php:2094
+msgid "First"
+msgstr ""
+
+#: inc/customizer.php:2098
+msgid "Second"
+msgstr ""
+
+#: inc/customizer.php:2102
+msgid "Third"
+msgstr ""
+
+#: inc/customizer.php:2123
+msgid "Back to top button"
+msgstr ""
+
+#: inc/customizer.php:2154
+msgid "Year of Publication"
+msgstr ""
+
+#: inc/customizer.php:2174
+msgid "Description"
+msgstr ""
+
+#: inc/customizer.php:2193
+msgid "Powered by WordPress"
+msgstr ""
+
+#: inc/customizer.php:2203
+msgid "Theme by Simple Days"
+msgstr ""
+
+#: inc/customizer.php:2213
+msgid "Simple Days Widget"
+msgstr ""
+
+#: inc/customizer.php:2223
+msgid "Add Social Links Widget"
+msgstr ""
+
+#: inc/customizer.php:2233
+msgid "Recent Posts with thumbnail widget"
+msgstr ""
+
+#: inc/customizer.php:2243
+msgid "Update Posts with thumbnail widget"
+msgstr ""
+
+#: inc/customizer.php:2253
+msgid "Recommended Posts with thumbnail widget"
+msgstr ""
+
+#: inc/customizer.php:2263 inc/widget-dd-archives.php:16
+msgid "Drop Down Archives widget without JavaScript"
+msgstr ""
+
+#: inc/customizer.php:2273 inc/widget-dd-categories.php:16
+msgid "Drop Down Categories widget without JavaScript"
+msgstr ""
+
+#: inc/customizer.php:2281 inc/customizer.php:2283 inc/customizer.php:2299
+#: inc/customizer.php:2332 inc/customizer.php:2343 inc/customizer.php:3143
+#: inc/customizer.php:3154 inc/customizer.php:3181 inc/customizer.php:3232
+#: inc/customizer.php:3269 inc/customizer.php:3280 inc/customizer.php:3292
+#: inc/customizer.php:3303 inc/customizer.php:3339 inc/customizer.php:3383
+#: inc/customizer.php:3462
+msgid "e.g.&nbsp;"
+msgstr ""
+
+#: inc/customizer.php:2282 inc/customizer.php:2299
+msgid "type the &lowast; part of your url"
+msgstr ""
+
+#: inc/customizer.php:2283
+msgid "add your amazon website's full URL"
+msgstr ""
+
+#: inc/customizer.php:2283
+msgid "Your wish list URL"
+msgstr ""
+
+#: inc/customizer.php:2308 inc/customizer.php:2806
+#: inc/widget-social-links.php:160
+msgid "Social Account"
+msgstr ""
+
+#: inc/customizer.php:2331
+msgid "Facebook App ID"
+msgstr ""
+
+#: inc/customizer.php:2342
+msgid "Facebook fb:admins"
+msgstr ""
+
+#: inc/customizer.php:2351
+msgid "Social Share"
+msgstr ""
+
+#: inc/customizer.php:2374 inc/customizer.php:3131 inc/customizer.php:3429
+#: inc/customizer.php:3519
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:2425
+msgid "Title icon"
+msgstr ""
+
+#: inc/customizer.php:2441 inc/social-share.php:65
+msgid "Share this post"
+msgstr ""
+
+#: inc/customizer.php:2445 inc/customizer.php:2659
+#: inc/widget-another-profile.php:140 inc/widget-dd-archives.php:38
+#: inc/widget-dd-categories.php:53 inc/widget-social-links.php:109
+#: inc/widget_postlist-popular.php:169 inc/widget_postlist-recent_thum.php:96
+#: inc/widget_postlist-recommend.php:84 inc/widget_postlist-update.php:136
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:2453
+msgid "buffer"
+msgstr ""
+
+#: inc/customizer.php:2454
+msgid "digg"
+msgstr ""
+
+#: inc/customizer.php:2455
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:2456
+msgid "Evernote"
+msgstr ""
+
+#: inc/customizer.php:2457 inc/customizer.php:2558 inc/social-list.php:13
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:2458 inc/social-list.php:17
+msgid "Google+"
+msgstr ""
+
+#: inc/customizer.php:2459 inc/social-list.php:18
+msgid "Hatena Bookmark"
+msgstr ""
+
+#: inc/customizer.php:2460 inc/social-list.php:20
+msgid "Line"
+msgstr ""
+
+#: inc/customizer.php:2461 inc/social-list.php:21
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer.php:2462
+msgid "Messenger"
+msgstr ""
+
+#: inc/customizer.php:2463 inc/social-list.php:23
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:2464
+msgid "Pocket"
+msgstr ""
+
+#: inc/customizer.php:2465
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer.php:2466 inc/social-list.php:26
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer.php:2467 inc/customizer.php:2578 inc/social-list.php:27
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:2468
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/customizer.php:2486
+#, php-format
+msgid "Social share Icon #%s"
+msgstr ""
+
+#: inc/customizer.php:2501
+msgid "Social CTA"
+msgstr ""
+
+#: inc/customizer.php:2520
+msgid "call-to-action under in the contents of the post"
+msgstr ""
+
+#: inc/customizer.php:2530
+msgid "call-to-action under in the contents of the page"
+msgstr ""
+
+#: inc/customizer.php:2535 inc/social-cta.php:27
+msgid "Follow us"
+msgstr ""
+
+#: inc/customizer.php:2539
+msgid "heading text"
+msgstr ""
+
+#: inc/customizer.php:2544 inc/social-cta.php:70
+msgid "We will keep you updated"
+msgstr ""
+
+#: inc/customizer.php:2548
+msgid "end text"
+msgstr ""
+
+#: inc/customizer.php:2568
+msgid "required Facebook script."
+msgstr ""
+
+#: inc/customizer.php:2568
+msgid "be careful not to conflict"
+msgstr ""
+
+#: inc/customizer.php:2587
+msgid "Gradation Color"
+msgstr ""
+
+#: inc/customizer.php:2588
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer.php:2631
+msgid "Profile Widget"
+msgstr ""
+
+#: inc/customizer.php:2640
+msgid "Add Profile Widget"
+msgstr ""
+
+#: inc/customizer.php:2650
+msgid "Add Another Profile Widget"
+msgstr ""
+
+#: inc/customizer.php:2655
+msgid "Profile"
+msgstr ""
+
+#: inc/customizer.php:2668 inc/widget-another-profile.php:144
+msgid "Name"
+msgstr ""
+
+#: inc/customizer.php:2677 inc/widget-another-profile.php:151
+msgid "Profile image"
+msgstr ""
+
+#: inc/customizer.php:2678
+msgid "Profile use this image."
+msgstr ""
+
+#: inc/customizer.php:2687 inc/widget-another-profile.php:165
+msgid "Profile image display shape"
+msgstr ""
+
+#: inc/customizer.php:2700 inc/widget-another-profile.php:173
+msgid "Background image"
+msgstr ""
+
+#: inc/customizer.php:2701
+msgid "Background use this image."
+msgstr ""
+
+#: inc/customizer.php:2710 inc/widget-another-profile.php:187
+msgid "Profile text"
+msgstr ""
+
+#: inc/customizer.php:2719 inc/widget-another-profile.php:192
+msgid "Read more URL"
+msgstr ""
+
+#: inc/customizer.php:2724 inc/widget-another-profile.php:37
+#: inc/widget-another-profile.php:124 inc/widget-profile.php:38
+#: template-parts/content.php:56
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer.php:2728 inc/widget-another-profile.php:197
+msgid "Read more text"
+msgstr ""
+
+#: inc/customizer.php:2738 inc/widget-another-profile.php:202
+msgid "Read more link open new window."
+msgstr ""
+
+#: inc/customizer.php:2750
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer.php:2804 inc/widget-social-links.php:150
+msgid "How to show social icon"
+msgstr ""
+
+#: inc/customizer.php:2806 inc/widget-social-links.php:160
+#, php-format
+msgid "You must register your %1$s before you can show social links."
+msgstr ""
+
+#: inc/customizer.php:2830
+msgid "Popular Post"
+msgstr ""
+
+#: inc/customizer.php:2839
+msgid "Count Popular Post"
+msgstr ""
+
+#: inc/customizer.php:2849
+msgid "Popular Posts Widgets"
+msgstr ""
+
+#: inc/customizer.php:2869
+msgid "Display page view at the each post."
+msgstr ""
+
+#: inc/customizer.php:2874
+msgid "Page View"
+msgstr ""
+
+#: inc/customizer.php:2875
+msgid "Yearly Page View"
+msgstr ""
+
+#: inc/customizer.php:2876
+msgid "Monthly Page View"
+msgstr ""
+
+#: inc/customizer.php:2877
+msgid "Weekly Page View"
+msgstr ""
+
+#: inc/customizer.php:2878
+msgid "Daily Page View"
+msgstr ""
+
+#: inc/customizer.php:2887
+msgid "Page view icon"
+msgstr ""
+
+#: inc/customizer.php:2922
+msgid "Post view display position"
+msgstr ""
+
+#: inc/customizer.php:2942
+msgid "Display page view to logout user."
+msgstr ""
+
+#: inc/customizer.php:2951
+msgid "Table of contents"
+msgstr ""
+
+#: inc/customizer.php:2971
+msgid "insert table of contents"
+msgstr ""
+
+#: inc/customizer.php:2977 inc/extra-content.php:35
+msgctxt "toc"
+msgid "Contents"
+msgstr ""
+
+#: inc/customizer.php:2981
+msgctxt "toc"
+msgid "Toc Title"
+msgstr ""
+
+#: inc/customizer.php:2991
+msgid "Initially hide table of contents"
+msgstr ""
+
+#: inc/customizer.php:3000
+msgid "lower limit the heading which toc is displayed"
+msgstr ""
+
+#: inc/customizer.php:3020
+msgid "Automatically display toc in post"
+msgstr ""
+
+#: inc/customizer.php:3029
+msgid "Automatically display toc in page"
+msgstr ""
+
+#: inc/customizer.php:3038
+msgid "display position"
+msgstr ""
+
+#: inc/customizer.php:3042
+msgid "Before the first heading"
+msgstr ""
+
+#: inc/customizer.php:3043
+msgid "After the first heading"
+msgstr ""
+
+#: inc/customizer.php:3044
+msgid "Top"
+msgstr ""
+
+#: inc/customizer.php:3052
+msgid "hierarchical view"
+msgstr ""
+
+#: inc/customizer.php:3061
+msgid "numerical display"
+msgstr ""
+
+#: inc/customizer.php:3071
+msgid "Add Widgets TOC"
+msgstr ""
+
+#: inc/customizer.php:3081
+msgid "Sticky TOC of SideBar Widgets"
+msgstr ""
+
+#: inc/customizer.php:3087
+msgid "Blog Card"
+msgstr ""
+
+#: inc/customizer.php:3096
+msgid "Blog card(internal site)"
+msgstr ""
+
+#: inc/customizer.php:3106
+msgid "Blog card(external site)"
+msgstr ""
+
+#: inc/customizer.php:3117 inc/customizer.php:3127
+msgid "Google Analytics"
+msgstr ""
+
+#: inc/customizer.php:3132
+msgid "ga.js"
+msgstr ""
+
+#: inc/customizer.php:3133
+msgid "gtag.js"
+msgstr ""
+
+#: inc/customizer.php:3142
+msgid "Google Analytics account"
+msgstr ""
+
+#: inc/customizer.php:3153
+msgid "Google Site Verification"
+msgstr ""
+
+#: inc/customizer.php:3171
+msgid "Google AdSense"
+msgstr ""
+
+#: inc/customizer.php:3180
+msgid "Your publisher ID(data-ad-client):"
+msgstr ""
+
+#: inc/customizer.php:3191
+msgid "Labeling ads"
+msgstr ""
+
+#: inc/customizer.php:3196 inc/widget-google_ad-inarticle.php:37
+#: inc/widget-google_ad-infeed.php:39 inc/widget-google_ad-responsive.php:36
+msgid "Advertisements"
+msgstr ""
+
+#: inc/customizer.php:3197 inc/widget-google_ad-inarticle.php:39
+#: inc/widget-google_ad-infeed.php:41 inc/widget-google_ad-responsive.php:38
+msgid "Sponsored Links"
+msgstr ""
+
+#: inc/customizer.php:3207 inc/customizer.php:3244 inc/customizer.php:3314
+#, php-format
+msgid "%s ad setting"
+msgstr ""
+
+#: inc/customizer.php:3207 inc/customizer.php:3220 inc/customizer.php:3231
+#: inc/widget-google_ad-inarticle.php:114 inc/widget-google_ad-infeed.php:135
+msgctxt "google_ad"
+msgid "Responsive"
+msgstr ""
+
+#: inc/customizer.php:3220 inc/customizer.php:3257 inc/customizer.php:3327
+#, php-format
+msgid "Add Widgets Google AdSense (%s)"
+msgstr ""
+
+#: inc/customizer.php:3231 inc/customizer.php:3268 inc/customizer.php:3291
+#: inc/customizer.php:3338 inc/widget-google_ad-inarticle.php:108
+#: inc/widget-google_ad-inarticle.php:114 inc/widget-google_ad-infeed.php:115
+#: inc/widget-google_ad-infeed.php:125 inc/widget-google_ad-infeed.php:135
+#, php-format
+msgid "Your %s ad unit's ID(data-ad-slot):"
+msgstr ""
+
+#: inc/customizer.php:3244 inc/customizer.php:3257 inc/customizer.php:3268
+#: inc/customizer.php:3279 inc/customizer.php:3291 inc/customizer.php:3302
+#: inc/widget-google_ad-infeed.php:115 inc/widget-google_ad-infeed.php:120
+#: inc/widget-google_ad-infeed.php:125 inc/widget-google_ad-infeed.php:130
+msgctxt "google_ad"
+msgid "In-feed"
+msgstr ""
+
+#: inc/customizer.php:3279 inc/customizer.php:3302
+#: inc/widget-google_ad-infeed.php:120 inc/widget-google_ad-infeed.php:130
+#, php-format
+msgid "Your %s ad unit's layout key(data-ad-layout-key):"
+msgstr ""
+
+#: inc/customizer.php:3291 inc/customizer.php:3302
+#: inc/widget-google_ad-infeed.php:125 inc/widget-google_ad-infeed.php:130
+msgctxt "google_ad"
+msgid "For Mobile"
+msgstr ""
+
+#: inc/customizer.php:3314 inc/customizer.php:3327 inc/customizer.php:3338
+#: inc/widget-google_ad-inarticle.php:108
+msgctxt "google_ad"
+msgid "In-article"
+msgstr ""
+
+#: inc/customizer.php:3346
+msgid "AMP(beta Ver.)"
+msgstr ""
+
+#: inc/customizer.php:3357
+msgid "Accelerated Mobile Pages(AMP)"
+msgstr ""
+
+#: inc/customizer.php:3372
+msgid "AMP Logo Image"
+msgstr ""
+
+#: inc/customizer.php:3373
+msgid "AMP Logo use this image."
+msgstr ""
+
+#: inc/customizer.php:3373
+msgid "For more information"
+msgstr ""
+
+#: inc/customizer.php:3373
+msgid "click here"
+msgstr ""
+
+#: inc/customizer.php:3382
+msgid "Google Analytics AMP account"
+msgstr ""
+
+#: inc/customizer.php:3393
+msgid "OGP"
+msgstr ""
+
+#: inc/customizer.php:3403
+msgid "add metadata for Open Graph protocol(OGP)"
+msgstr ""
+
+#: inc/customizer.php:3413
+msgid "OGP Image"
+msgstr ""
+
+#: inc/customizer.php:3414
+msgid "If no thumbnail or home page then use this image."
+msgstr ""
+
+#: inc/customizer.php:3425
+msgid "Twitter Card"
+msgstr ""
+
+#: inc/customizer.php:3430
+msgid "Summary Card"
+msgstr ""
+
+#: inc/customizer.php:3431
+msgid "Summary Card with Large Image"
+msgstr ""
+
+#: inc/customizer.php:3441
+msgid "Site map"
+msgstr ""
+
+#: inc/customizer.php:3452
+msgid "Display the site map at the page."
+msgstr ""
+
+#: inc/customizer.php:3461
+msgid "Page slug to be display at the page."
+msgstr ""
+
+#: inc/customizer.php:3475
+msgid "Display the site map link at footer area"
+msgstr ""
+
+#: inc/customizer.php:3484
+msgid "JavaScript and CSS"
+msgstr ""
+
+#: inc/customizer.php:3494 inc/customizer.php:3505
+msgid "use CDN FontAwesome 4"
+msgstr ""
+
+#: inc/customizer.php:3496
+msgid ""
+"Simple Days's careful selection of FontAwesome icons to make it smoothly."
+msgstr ""
+
+#: inc/customizer.php:3496
+msgid "Therefore, you can not use full icons."
+msgstr ""
+
+#: inc/customizer.php:3496
+msgid "If you use CDN FontAwesome, you can use full icons."
+msgstr ""
+
+#: inc/customizer.php:3496
+msgid "but to be slowly."
+msgstr ""
+
+#: inc/customizer.php:3515
+msgid "Lightbox"
+msgstr ""
+
+#: inc/customizer.php:3520
+msgid "Lity"
+msgstr ""
+
+#: inc/customizer.php:3532
+msgid "use highlight.js"
+msgstr ""
+
+#: inc/customizer.php:3625
+msgid "Style of highlight.js"
+msgstr ""
+
+#: inc/customizer.php:3637 inc/customizer.php:3669 inc/customizer.php:3671
+msgid "Word Balloon"
+msgstr ""
+
+#: inc/customizer.php:3647
+msgid "Use word balloon css when AMP"
+msgstr ""
+
+#: inc/customizer.php:3688
+msgid "Gutenberg"
+msgstr ""
+
+#: inc/customizer.php:3699
+msgid "Select a block to be displayed"
+msgstr ""
+
+#: inc/customizer.php:3736
+msgid "Option"
+msgstr ""
+
+#: inc/customizer.php:3747
+msgid "Uploaded to this post is always enabled on the Add Media."
+msgstr ""
+
+#: inc/customizer.php:3759
+msgid "Robots do not search for 404 , search , tag , year , month , day page"
+msgstr ""
+
+#: inc/customizer.php:3770
+msgid "404 Image"
+msgstr ""
+
+#: inc/customizer.php:3771
+msgid "404 page use this image."
+msgstr ""
+
+#: inc/customizer.php:3781
+msgid "No Image"
+msgstr ""
+
+#: inc/customizer.php:3782
+msgid "No thumbnail page use this image."
+msgstr ""
+
+#: inc/customizer.php:3794
+msgid "Text on Header image"
+msgstr ""
+
+#: inc/customizer.php:3807
+msgid "Skins"
+msgstr ""
+
+#: inc/customizer.php:3808
+msgid "You can easily change color"
+msgstr ""
+
+#: inc/customizer.php:3813
+msgid "Red Orange"
+msgstr ""
+
+#: inc/customizer.php:3814
+msgid "Orange"
+msgstr ""
+
+#: inc/customizer.php:3815
+msgid "Rose Peche"
+msgstr ""
+
+#: inc/customizer.php:3816
+msgid "Grape Juice"
+msgstr ""
+
+#: inc/customizer.php:3817
+msgid "Blue Yellow"
+msgstr ""
+
+#: inc/customizer.php:3818
+msgid "Blue Ocean"
+msgstr ""
+
+#: inc/customizer.php:3819
+msgid "Petrole"
+msgstr ""
+
+#: inc/customizer.php:3820
+msgid "Apple Green"
+msgstr ""
+
+#: inc/customizer.php:3821
+msgid "Moss Green"
+msgstr ""
+
+#: inc/customizer.php:3822
+msgid "Yellow Mustard"
+msgstr ""
+
+#: inc/customizer.php:3823
+msgid "Cinnamon"
+msgstr ""
+
+#: inc/customizer.php:3824
+msgid "Brown Bread"
+msgstr ""
+
+#: inc/customizer.php:3825
+msgid "Gray Horse"
+msgstr ""
+
+#: inc/customizer.php:3826
+msgid "Black Coffee"
+msgstr ""
+
+#: inc/customizer.php:3835
+msgid "Selects skins randomly at access."
+msgstr ""
+
+#: inc/customizer.php:3858
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:3869
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer.php:3880
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer.php:3892
+msgid "Header background color"
+msgstr ""
+
+#: inc/customizer.php:3904
+msgid "Header Menu background color"
+msgstr ""
+
+#: inc/customizer.php:3916
+msgid "Footer Widget background area color"
+msgstr ""
+
+#: inc/customizer.php:3927
+msgid "Footer Widget text color"
+msgstr ""
+
+#: inc/customizer.php:3938
+msgid "Footer Widget link color"
+msgstr ""
+
+#: inc/customizer.php:3950
+msgid "Footer Menu background color"
+msgstr ""
+
+#: inc/customizer.php:3962
+msgid "Footer color"
+msgstr ""
+
+#: inc/customizer.php:3974
+msgid "Over Header background color"
+msgstr ""
+
+#: inc/customizer.php:4375
+msgctxt "post_sortable"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:4378
+msgctxt "post_sortable"
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:4381
+msgctxt "post_sortable"
+msgid "Date"
+msgstr ""
+
+#: inc/customizer.php:4384
+msgctxt "post_sortable"
+msgid "Author"
+msgstr ""
+
+#: inc/customizer.php:4387
+msgctxt "post_sortable"
+msgid "Page views"
+msgstr ""
+
+#: inc/customizer.php:4390
+msgctxt "post_sortable"
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/customizer.php:4393
+msgctxt "post_sortable"
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:4396
+msgctxt "post_sortable"
+msgid "Widget"
+msgstr ""
+
+#: inc/customizer.php:4399
+msgctxt "post_sortable"
+msgid "Page Link"
+msgstr ""
+
+#: inc/customizer.php:4402
+msgctxt "post_sortable"
+msgid "CTA"
+msgstr ""
+
+#: inc/customizer.php:4405
+msgctxt "post_sortable"
+msgid "Share"
+msgstr ""
+
+#: inc/customizer.php:4408
+msgctxt "post_sortable"
+msgid "About the author"
+msgstr ""
+
+#: inc/customizer.php:4411
+msgctxt "post_sortable"
+msgid "Related"
+msgstr ""
+
+#: inc/customizer.php:4414
+msgctxt "post_sortable"
+msgid "Category"
+msgstr ""
+
+#: inc/customizer.php:4417
+msgctxt "post_sortable"
+msgid "Tag"
+msgstr ""
+
+#: inc/customizer.php:4420
+msgctxt "post_sortable"
+msgid "Pagenation"
+msgstr ""
+
+#: inc/customizer.php:4423
+msgctxt "post_sortable"
+msgid "Comment"
+msgstr ""
+
+#: inc/customizer.php:4492
+#, php-format
+msgid "Install %s"
+msgstr ""
+
+#: inc/customizer.php:4499
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: inc/customizer.php:4506
+msgid "Already activated"
+msgstr ""
+
+#: inc/customizer.php:4519
+msgid "Activating&hellip;"
+msgstr ""
+
+#: inc/customizer.php:4519
+msgid "Activated"
+msgstr ""
+
+#: inc/extra-content.php:35
+msgctxt "toc"
+msgid "view"
+msgstr ""
+
+#: inc/extra-content.php:35
+msgid "hide"
+msgstr ""
+
+#: inc/extra-content.php:350
+msgid "file"
+msgstr ""
+
+#: inc/extra-content.php:474 inc/extra-content.php:476
+msgid "Code check to master page"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:11
+msgctxt "gutenberg_block"
+msgid "Paragraph"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:12
+msgctxt "gutenberg_block"
+msgid "Image"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:13
+msgctxt "gutenberg_block"
+msgid "Heading"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:14
+msgctxt "gutenberg_block"
+msgid "Gallery"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:15
+msgctxt "gutenberg_block"
+msgid "List"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:16
+msgctxt "gutenberg_block"
+msgid "Quote"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:17
+msgctxt "gutenberg_block"
+msgid "Audio"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:18
+msgctxt "gutenberg_block"
+msgid "Cover Image"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:19
+msgctxt "gutenberg_block"
+msgid "File"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:21
+msgctxt "gutenberg_block"
+msgid "Video"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:23
+msgctxt "gutenberg_block"
+msgid "Classic"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:24
+msgctxt "gutenberg_block"
+msgid "Code"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:25
+msgctxt "gutenberg_block"
+msgid "Custom HTML"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:26
+msgctxt "gutenberg_block"
+msgid "Preformatted"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:27
+msgctxt "gutenberg_block"
+msgid "Pullquote"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:28
+msgctxt "gutenberg_block"
+msgid "Table"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:29
+msgctxt "gutenberg_block"
+msgid "Verse"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:31
+msgctxt "gutenberg_block"
+msgid "Columns"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:32
+msgctxt "gutenberg_block"
+msgid "Button"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:33
+msgctxt "gutenberg_block"
+msgid "More"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:34
+msgctxt "gutenberg_block"
+msgid "Page break"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:35
+msgctxt "gutenberg_block"
+msgid "Separator"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:36
+msgctxt "gutenberg_block"
+msgid "Spacer"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:39
+msgctxt "gutenberg_block"
+msgid "Shortcode"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:40
+msgctxt "gutenberg_block"
+msgid "Archives"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:41
+msgctxt "gutenberg_block"
+msgid "Categories"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:42
+msgctxt "gutenberg_block"
+msgid "Latest Comments"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:43
+msgctxt "gutenberg_block"
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:45
+msgctxt "gutenberg_block"
+msgid "Embed"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:52
+msgctxt "gutenberg_block"
+msgid "Twitter"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:53
+msgctxt "gutenberg_block"
+msgid "Youtube"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:54
+msgctxt "gutenberg_block"
+msgid "Facebook"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:55
+msgctxt "gutenberg_block"
+msgid "Instagram"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:56
+msgctxt "gutenberg_block"
+msgid "WordPress"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:57
+msgctxt "gutenberg_block"
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:58
+msgctxt "gutenberg_block"
+msgid "Spotify"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:59
+msgctxt "gutenberg_block"
+msgid "Flickr"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:60
+msgctxt "gutenberg_block"
+msgid "Vimeo"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:61
+msgctxt "gutenberg_block"
+msgid "Animoto"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:62
+msgctxt "gutenberg_block"
+msgid "Cloudup"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:63
+msgctxt "gutenberg_block"
+msgid "CollegeHumor"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:64
+msgctxt "gutenberg_block"
+msgid "Dailymotion"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:65
+msgctxt "gutenberg_block"
+msgid "Funny or Die"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:66
+msgctxt "gutenberg_block"
+msgid "Hulu"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:67
+msgctxt "gutenberg_block"
+msgid "Imgur"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:68
+msgctxt "gutenberg_block"
+msgid "Issuu"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:69
+msgctxt "gutenberg_block"
+msgid "Kickstarter"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:70
+msgctxt "gutenberg_block"
+msgid "Meetup.com"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:71
+msgctxt "gutenberg_block"
+msgid "Mixcloud"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:72
+msgctxt "gutenberg_block"
+msgid "Photobucket"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:73
+msgctxt "gutenberg_block"
+msgid "Polldaddy"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:74
+msgctxt "gutenberg_block"
+msgid "Reddit"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:75
+msgctxt "gutenberg_block"
+msgid "ReverbNation"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:76
+msgctxt "gutenberg_block"
+msgid "Screencast"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:77
+msgctxt "gutenberg_block"
+msgid "Scribd"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:78
+msgctxt "gutenberg_block"
+msgid "Slideshare"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:79
+msgctxt "gutenberg_block"
+msgid "SmugMug"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:80
+msgctxt "gutenberg_block"
+msgid "Speaker"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:81
+msgctxt "gutenberg_block"
+msgid "TED"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:82
+msgctxt "gutenberg_block"
+msgid "Tumblr"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:83
+msgctxt "gutenberg_block"
+msgid "VideoPress"
+msgstr ""
+
+#: inc/gutenberg_block-list.php:84
+msgctxt "gutenberg_block"
+msgid "WordPress.tv"
+msgstr ""
+
+#: inc/social-cta.php:65
+msgctxt "cta_twitter_follow"
+msgid "Follow"
+msgstr ""
+
+#: inc/social-list.php:11
+msgid "Amazon"
+msgstr ""
+
+#: inc/social-list.php:12
+msgid "CodePen"
+msgstr ""
+
+#: inc/social-list.php:14
+msgid "Feedly"
+msgstr ""
+
+#: inc/social-list.php:15
+msgid "Flickr"
+msgstr ""
+
+#: inc/social-list.php:16
+msgid "Github"
+msgstr ""
+
+#: inc/social-list.php:19
+msgid "Instagram"
+msgstr ""
+
+#: inc/social-list.php:22
+msgid "Meetup"
+msgstr ""
+
+#: inc/social-list.php:24
+msgid "RSS"
+msgstr ""
+
+#: inc/social-list.php:25
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/social-list.php:28
+msgid "Vimeo"
+msgstr ""
+
+#: inc/social-list.php:29
+msgid "Youtube"
+msgstr ""
+
+#: inc/social-list.php:32
+msgid "square"
+msgstr ""
+
+#: inc/social-list.php:33
+msgid "circle"
+msgstr ""
+
+#: inc/social-list.php:34
+msgid "rectangle"
+msgstr ""
+
+#: inc/social-list.php:35
+msgid "only icon"
+msgstr ""
+
+#: inc/social-list.php:36
+msgid "hollow square"
+msgstr ""
+
+#: inc/social-list.php:37
+msgid "hollow circle"
+msgstr ""
+
+#: inc/social-list.php:38
+msgid "hollow rectangle"
+msgstr ""
+
+#: inc/social-list.php:41
+msgid "small"
+msgstr ""
+
+#: inc/social-list.php:42
+msgid "medium"
+msgstr ""
+
+#: inc/social-list.php:43
+msgid "large"
+msgstr ""
+
+#: inc/social-list.php:44
+msgid "extra large"
+msgstr ""
+
+#: inc/social-output.php:112
+#, php-format
+msgid "Shared from &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/social-output.php:200
+msgctxt "hatebu"
+msgid "Hatena"
+msgstr ""
+
+#: inc/starter_content.php:60
+msgctxt "customizer"
+msgid "Blog"
+msgstr ""
+
+#: inc/starter_content.php:61
+msgid "You only live once. Might as well enjoy it."
+msgstr ""
+
+#: inc/starter_content.php:66
+msgctxt "customizer"
+msgid "Services"
+msgstr ""
+
+#: inc/starter_content.php:67
+msgid "I will skip work tomorrow."
+msgstr ""
+
+#: inc/starter_content.php:88
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/widget-another-profile.php:18
+msgid "[Simple Days] Another Profile"
+msgstr ""
+
+#: inc/widget-another-profile.php:19
+msgid "Support another profile for Widget"
+msgstr ""
+
+#: inc/widget-another-profile.php:28 inc/widget-another-profile.php:115
+#: inc/widget-profile.php:28
+msgid "About me"
+msgstr ""
+
+#: inc/widget-another-profile.php:153 inc/widget-another-profile.php:175
+msgid "No image selected"
+msgstr ""
+
+#: inc/widget-another-profile.php:159 inc/widget-another-profile.php:181
+msgid "Clear Image"
+msgstr ""
+
+#: inc/widget-another-profile.php:160 inc/widget-another-profile.php:182
+msgid "Select Image"
+msgstr ""
+
+#: inc/widget-another-profile.php:211 inc/widget-social-links.php:114
+#: inc/widget_postlist-popular.php:197
+#: inc/widget_postlist-recent_thum.php:105
+#: inc/widget_postlist-recommend.php:94 inc/widget_postlist-update.php:145
+msgid "Display style"
+msgstr ""
+
+#: inc/widget-dd-archives.php:15
+msgid "[Simple Days] Archives"
+msgstr ""
+
+#: inc/widget-dd-archives.php:29
+msgid "Select Month"
+msgstr ""
+
+#: inc/widget-dd-categories.php:15
+msgid "[Simple Days] Categories"
+msgstr ""
+
+#: inc/widget-dd-categories.php:29
+msgid "Select Category"
+msgstr ""
+
+#: inc/widget-google_ad-inarticle.php:15
+msgid "[Simple Days] Google AdSense In-article"
+msgstr ""
+
+#: inc/widget-google_ad-inarticle.php:16
+msgid "Support a In-article ad unit for Google AdSense."
+msgstr ""
+
+#: inc/widget-google_ad-inarticle.php:110
+#: inc/widget-google_ad-inarticle.php:117 inc/widget-google_ad-infeed.php:117
+#: inc/widget-google_ad-infeed.php:127 inc/widget-google_ad-infeed.php:138
+#: inc/widget-google_ad-responsive.php:108
+msgid "If empty this slot, then take precedence from customizer setting."
+msgstr ""
+
+#: inc/widget-google_ad-inarticle.php:114 inc/widget-google_ad-infeed.php:135
+msgctxt "google_ad"
+msgid "For AMP:"
+msgstr ""
+
+#: inc/widget-google_ad-inarticle.php:118 inc/widget-google_ad-infeed.php:139
+msgid "Enter either ,"
+msgstr ""
+
+#: inc/widget-google_ad-inarticle.php:119 inc/widget-google_ad-infeed.php:140
+msgid "Enable AMP when switching AMP ad."
+msgstr ""
+
+#: inc/widget-google_ad-inarticle.php:120 inc/widget-google_ad-infeed.php:141
+msgid "If both empty,"
+msgstr ""
+
+#: inc/widget-google_ad-inarticle.php:121 inc/widget-google_ad-infeed.php:142
+msgid "Enable AMP when none ad."
+msgstr ""
+
+#: inc/widget-google_ad-infeed.php:15
+msgid "[Simple Days] Google AdSense In-feed"
+msgstr ""
+
+#: inc/widget-google_ad-infeed.php:16
+msgid "Support a In-feed ad unit for Google AdSense."
+msgstr ""
+
+#: inc/widget-google_ad-infeed.php:122 inc/widget-google_ad-infeed.php:132
+msgid "If empty this key, then take precedence from customizer setting."
+msgstr ""
+
+#: inc/widget-google_ad-responsive.php:15
+msgid "[Simple Days] Google AdSense Responsive"
+msgstr ""
+
+#: inc/widget-google_ad-responsive.php:16
+msgid ""
+"Support a responsive ad unit for Google AdSense.Enable AMP when switching "
+"AMP ad."
+msgstr ""
+
+#: inc/widget-google_ad-responsive.php:106
+msgid "Your ad unit's ID(data-ad-slot):"
+msgstr ""
+
+#: inc/widget-google_ad-responsive.php:113
+msgid "Format"
+msgstr ""
+
+#: inc/widget-google_ad-responsive.php:115
+msgctxt "google_ad"
+msgid "Auto"
+msgstr ""
+
+#: inc/widget-google_ad-responsive.php:116
+msgctxt "google_ad"
+msgid "rectangle"
+msgstr ""
+
+#: inc/widget-google_ad-responsive.php:117
+msgctxt "google_ad"
+msgid "horizontal"
+msgstr ""
+
+#: inc/widget-google_ad-responsive.php:118
+msgctxt "google_ad"
+msgid "vertical"
+msgstr ""
+
+#: inc/widget-profile.php:17
+msgid "[Simple Days] Profile"
+msgstr ""
+
+#: inc/widget-profile.php:18
+msgid "Support profile for Widget"
+msgstr ""
+
+#: inc/widget-social-links.php:17
+msgid "[Simple Days] Social Links"
+msgstr ""
+
+#: inc/widget-social-links.php:18
+msgid "Support Social Links for Widget"
+msgstr ""
+
+#: inc/widget-toc.php:15
+msgid "[Simple Days] TOC"
+msgstr ""
+
+#: inc/widget-toc.php:16
+msgid "Support table of contents for Widget"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:15
+msgid "[Simple Days] Popular Posts"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:16
+msgid "Support popular posts for Widget"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:36
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:40
+msgid "Yearly Popular Posts"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:44
+msgid "Monthly Popular Posts"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:48
+msgid "Weekly Popular Posts"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:52
+msgid "Daily Popular Posts"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:174
+msgid "the time period"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:177
+msgid "All"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:180
+msgid "Yearly"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:183
+msgid "Monthly"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:186
+msgid "Weekly"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:189
+msgid "Daily"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:192
+msgid "Display priorities"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:200
+#: inc/widget_postlist-recent_thum.php:108
+#: inc/widget_postlist-recommend.php:97 inc/widget_postlist-update.php:148
+msgid "List"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:206
+#: inc/widget_postlist-recent_thum.php:114
+#: inc/widget_postlist-recommend.php:103 inc/widget_postlist-update.php:154
+msgid "List &#43; Thumbnail"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:209
+#: inc/widget_postlist-recent_thum.php:117 inc/widget_postlist-update.php:157
+msgid " Disappear when you type category id."
+msgstr ""
+
+#: inc/widget_postlist-popular.php:213
+#: inc/widget_postlist-recent_thum.php:121 inc/widget_postlist-update.php:161
+msgid " Disappear when you type post id."
+msgstr ""
+
+#: inc/widget_postlist-popular.php:218
+#: inc/widget_postlist-recent_thum.php:126 inc/widget_postlist-update.php:166
+msgid "include page"
+msgstr ""
+
+#: inc/widget_postlist-popular.php:222
+msgid "Enable archive ranking in archive"
+msgstr ""
+
+#: inc/widget_postlist-recent_thum.php:15
+msgid "[Simple Days] Recent Posts with thumbnail"
+msgstr ""
+
+#: inc/widget_postlist-recent_thum.php:16
+msgid "Support Recent Posts with thumbnail for Widget"
+msgstr ""
+
+#: inc/widget_postlist-recent_thum.php:22
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widget_postlist-recent_thum.php:100 inc/widget_postlist-update.php:140
+msgid "Number of shown post"
+msgstr ""
+
+#: inc/widget_postlist-recommend.php:15
+msgid "[Simple Days] Recommended Posts with thumbnail"
+msgstr ""
+
+#: inc/widget_postlist-recommend.php:16
+msgid "Support Recommended Posts with thumbnail for Widget"
+msgstr ""
+
+#: inc/widget_postlist-recommend.php:22
+msgid "Recommended Posts"
+msgstr ""
+
+#: inc/widget_postlist-recommend.php:88
+msgid " Appear when you type post id."
+msgstr ""
+
+#: inc/widget_postlist-update.php:15
+msgid "[Simple Days] Update Posts with thumbnail"
+msgstr ""
+
+#: inc/widget_postlist-update.php:16
+msgid "Support Update Posts with thumbnail for Widget"
+msgstr ""
+
+#: inc/widget_postlist-update.php:22
+msgid "Update Posts"
+msgstr ""
+
+#: inc/widgets.php:5
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets.php:7
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: inc/widgets.php:14
+msgid "Content Bottom Left"
+msgstr ""
+
+#: inc/widgets.php:16
+msgid "Add widgets here to appear in bottom footer(left side).."
+msgstr ""
+
+#: inc/widgets.php:23
+msgid "Content Bottom Center"
+msgstr ""
+
+#: inc/widgets.php:25
+msgid "Add widgets here to appear in bottom footer(center)."
+msgstr ""
+
+#: inc/widgets.php:32
+msgid "Content Bottom Right"
+msgstr ""
+
+#: inc/widgets.php:34
+msgid "Add widgets here to appear in bottom footer(right side)"
+msgstr ""
+
+#: inc/widgets.php:41
+msgid "On the pagination"
+msgstr ""
+
+#: inc/widgets.php:43
+msgid "Add widgets here to appear on the pagination"
+msgstr ""
+
+#: inc/widgets.php:50
+msgid "Under the post"
+msgstr ""
+
+#: inc/widgets.php:52
+msgid "Add widgets under in the contents of the post"
+msgstr ""
+
+#: inc/widgets.php:59
+msgid "Under the page"
+msgstr ""
+
+#: inc/widgets.php:61
+msgid "Add widgets under in the contents of the page"
+msgstr ""
+
+#: inc/widgets.php:73
+msgid "Over Header Left"
+msgstr ""
+
+#: inc/widgets.php:75
+msgid "Add widgets here to over header left."
+msgstr ""
+
+#: inc/widgets.php:83
+msgid "Over Header Right"
+msgstr ""
+
+#: inc/widgets.php:85
+msgid "Add widgets here to over header right."
+msgstr ""
+
+#: inc/widgets.php:93
+msgid "Header"
+msgstr ""
+
+#: inc/widgets.php:95
+msgid "Add widgets here to header."
+msgstr ""
+
+#: inc/widgets.php:109
+msgid "Index List"
+msgstr ""
+
+#: inc/widgets.php:111
+msgid "Add widgets here to index list insert."
+msgstr ""
+
+#: inc/widgets.php:111
+msgid "change the number of insert widget area."
+msgstr ""
+
+#: inc/widgets.php:118
+msgid "Before the first H2 of the post"
+msgstr ""
+
+#: inc/widgets.php:120
+msgid "Add widgets before the first h2 in the contents of the post"
+msgstr ""
+
+#: inc/widgets.php:128
+msgid "Before the second H2 of the post"
+msgstr ""
+
+#: inc/widgets.php:130
+msgid "Add widgets before the second h2 in the contents of the post"
+msgstr ""
+
+#: inc/widgets.php:138
+msgid "Before the third H2 of the post"
+msgstr ""
+
+#: inc/widgets.php:140
+msgid "Add widgets before the third h2 in the contents of the post"
+msgstr ""
+
+#: inc/widgets.php:147
+msgid "Before the first H2 of the page"
+msgstr ""
+
+#: inc/widgets.php:149
+msgid "Add widgets before the first h2 in the contents of the page"
+msgstr ""
+
+#: inc/widgets.php:157
+msgid "Before the second H2 of the page"
+msgstr ""
+
+#: inc/widgets.php:159
+msgid "Add widgets before the second h2 in the contents of the page"
+msgstr ""
+
+#: inc/widgets.php:167
+msgid "Before the third H2 of the page"
+msgstr ""
+
+#: inc/widgets.php:169
+msgid "Add widgets before the third h2 in the contents of the page"
+msgstr ""
+
+#: page.php:58 single.php:49
+msgid "Edit this post"
+msgstr ""
+
+#: page.php:130 single.php:119
+msgid "Pages:"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:184
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:190
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Get started here."
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Simple Days"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://back2nature.jp/themes/simpledays"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Simple Days is a free responsive WordPress Blog theme.Visitors arrive by "
+"smartphone, tablet, laptop, or desktop computer.I designed it using a "
+"mobile-first approach.It is thus possible to improve usability of the "
+"smartphone.And of course, other devices is too.Moreover,you can also edit "
+"the design using its customizer.Google Fonts is 800 over.Right or Left or "
+"No sidebar.Social Link.optimized for SEO, utilizing Schema.org microdata."
+"And Gutenberg ready.Translation ready and currently translated in "
+"Japanese(日本語).Let's try it."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YAHMAN"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://back2nature.jp/"
+msgstr ""

@@ -1,0 +1,8 @@
+@charset "UTF-8";body.gutenberg-editor-page .editor-post-title__block,body.gutenberg-editor-page .editor-default-block-appender,body.gutenberg-editor-page .editor-block-list__block{max-width:844px}
+body.gutenberg-editor-page .editor-block-list__block[data-align="wide"]{max-width:1200px}body.gutenberg-editor-page .editor-block-list__block[data-align="full"]{max-width:none}
+.alert_box_s_d{margin:10px auto;border:1px solid transparent;padding:20px 20px 20px 55px;position:relative;border-radius:3px}.alert_box_s_d:before{content:"";position:absolute;top:0;left:0;right:0;bottom:1px;margin:auto auto auto 12px;width:28px;height:28px;-webkit-border-radius:50%;border-radius:50%;box-shadow:0 4px 8px 0 rgba(0,0,0,0.14),0 4px 14px 0 rgba(0,0,0,0.1)}
+.alert_box_s_d:after{color:#fff;font-size:20px;font-weight:bold;position:absolute;top:50%;left:26.5px;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}
+.success_s_d{background:#bed8be}.success_s_d:before{background:#94c395}.success_s_d:after{content:"\002714"}.danger_s_d{background:#efa882}
+.danger_s_d:before{background:#d9544f}.danger_s_d:after{content:"\00d7"}.info_s_d{background:#dceaea}.info_s_d:before{background:#7ec3d8}
+.info_s_d:after{font-family:"FontAwesome";content:"\f129"}.warning_s_d{background:#f9e4a5}.warning_s_d:before{-webkit-border-radius:0;border-radius:0;bottom:8px;width:0;height:0;border-right:15px solid transparent;border-bottom:26.0px solid #efad4f;border-left:15px solid transparent;box-shadow:none;filter:drop-shadow(2px 3px 3px rgba(0,0,0,0.5))}
+.warning_s_d:after{content:"\0021"}

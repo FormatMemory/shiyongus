@@ -1,0 +1,3385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Days\n"
+"POT-Creation-Date: 2018-09-19 21:22+0900\n"
+"PO-Revision-Date: 2018-09-19 21:23+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#: 404.php:17
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: comments.php:31
+#, php-format
+msgid "%1$s COMMENTS"
+msgstr "%1$s コメント"
+
+#: comments.php:36
+msgid "COMMENT"
+msgstr "コメント"
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr "以前のコメント"
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:64 comments.php:72
+msgid "Comments are closed."
+msgstr "コメントは現在停止中です。"
+
+#: comments.php:70
+msgid "Post a comment"
+msgstr "コメントを投稿する"
+
+#: footer.php:44
+msgid "Site Map"
+msgstr "サイトマップ"
+
+#: functions.php:94
+msgid "Header Menu"
+msgstr "ヘッダーのメニュー"
+
+#: functions.php:95
+msgid "Footer Menu"
+msgstr "フッターのメニュー"
+
+#: functions.php:597
+msgid "Simple Days Social Profile"
+msgstr "Simple Days SNSプロフィール"
+
+#: functions.php:611 inc/customizer.php:2819 inc/widget-another-profile.php:254
+#: inc/widget-social-links.php:169
+#, php-format
+msgid "Social Icon #%s"
+msgstr "SNSのアイコン #%s"
+
+#: functions.php:629 inc/widget-another-profile.php:265
+#, php-format
+msgid "Social URL #%s"
+msgstr "SNSのURL #%s"
+
+#: functions.php:653 inc/customizer.php:2369 inc/customizer.php:2751
+msgid "Display Style"
+msgstr "表示方法"
+
+#: functions.php:665 inc/customizer.php:2383 inc/customizer.php:2762
+#: inc/widget-another-profile.php:222 inc/widget-social-links.php:125
+msgid "Icon Size"
+msgstr "アイコンサイズ"
+
+#: functions.php:676 inc/customizer.php:2394 inc/customizer.php:2775
+#: inc/widget-another-profile.php:232 inc/widget-social-links.php:136
+msgid "Specifies the color of the icon."
+msgstr "アイコン色の指定"
+
+#: functions.php:682 inc/customizer.php:2403 inc/customizer.php:2784
+#: inc/widget-another-profile.php:236 inc/widget-social-links.php:140
+msgid "Specifies the color of hover."
+msgstr "ホバー色の指定"
+
+#: functions.php:688 inc/customizer.php:2413 inc/customizer.php:2794
+#: inc/widget-another-profile.php:242 inc/widget-social-links.php:146
+msgid "Tool tip"
+msgstr "ツールチップ"
+
+#: functions.php:692 inc/customizer.php:204 inc/customizer.php:215
+#: inc/customizer.php:226 inc/customizer.php:981 inc/customizer.php:992
+#: inc/customizer.php:1291 inc/customizer.php:1302 inc/customizer.php:1931
+#: inc/customizer.php:2122 inc/customizer.php:2222 inc/customizer.php:2232
+#: inc/customizer.php:2242 inc/customizer.php:2252 inc/customizer.php:2262
+#: inc/customizer.php:2272 inc/customizer.php:2412 inc/customizer.php:2567
+#: inc/customizer.php:2639 inc/customizer.php:2649 inc/customizer.php:2737
+#: inc/customizer.php:2793 inc/customizer.php:2838 inc/customizer.php:2848
+#: inc/customizer.php:2941 inc/customizer.php:2970 inc/customizer.php:3070
+#: inc/customizer.php:3080 inc/customizer.php:3095 inc/customizer.php:3105
+#: inc/customizer.php:3218 inc/customizer.php:3255 inc/customizer.php:3325
+#: inc/customizer.php:3356 inc/customizer.php:3402 inc/customizer.php:3451
+#: inc/customizer.php:3474 inc/customizer.php:3504 inc/customizer.php:3531
+#: inc/customizer.php:3646 inc/customizer.php:3746 inc/customizer.php:3758
+#: inc/customizer.php:3834
+msgid "Enable"
+msgstr "有効"
+
+#: functions.php:913
+msgid "Reply"
+msgstr "返信"
+
+#: functions.php:916
+msgid "Edit"
+msgstr "編集"
+
+#: functions.php:929
+msgid "*Your comment is awaiting moderation.*"
+msgstr "*あなたのコメントは現在承認待ちです。*"
+
+#: functions.php:941
+msgid "h1"
+msgstr "h1"
+
+#: functions.php:941 functions.php:942 functions.php:943 functions.php:944
+#: functions.php:945 functions.php:946
+msgid "Heading "
+msgstr "見出し"
+
+#: functions.php:942
+msgid "h2"
+msgstr "h2"
+
+#: functions.php:943
+msgid "h3"
+msgstr "h3"
+
+#: functions.php:944
+msgid "h4"
+msgstr "h4"
+
+#: functions.php:945
+msgid "h5"
+msgstr "h5"
+
+#: functions.php:946
+msgid "h6"
+msgstr "h6"
+
+#: functions.php:947
+msgid "BOX (info)"
+msgstr "BOX (info)"
+
+#: functions.php:947 functions.php:948 functions.php:949 functions.php:950
+msgid "Notification"
+msgstr "お知らせ"
+
+#: functions.php:948
+msgid "BOX (Success)"
+msgstr "BOX (Success)"
+
+#: functions.php:949
+msgid "BOX (Warning)"
+msgstr "BOX (Warning)"
+
+#: functions.php:950
+msgid "BOX (Danger)"
+msgstr "BOX (Danger)"
+
+#: functions.php:952
+msgid "pre code"
+msgstr "pre code"
+
+#: functions.php:952
+msgid "Code"
+msgstr "プログラムコード"
+
+#: header.php:83 searchform.php:16
+msgid "Search"
+msgstr "検索"
+
+#: inc/author-profile.php:13
+msgid "About the author"
+msgstr "この記事の投稿者"
+
+#: inc/author-profile.php:15
+msgid "Latest posts"
+msgstr "最新記事"
+
+#: inc/breadcrumbs.php:11
+msgid "Home"
+msgstr "Home"
+
+#: inc/breadcrumbs.php:141
+msgid "Author archive for "
+msgstr "投稿者のアーカイブ"
+
+#: inc/breadcrumbs.php:186 inc/breadcrumbs.php:192
+#, php-format
+msgid "Search query for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/breadcrumbs.php:192 inc/breadcrumbs.php:204
+#, php-format
+msgid " ( Page %s )"
+msgstr "( %sページ目 )"
+
+#: inc/breadcrumbs.php:197
+msgid "Error 404"
+msgstr "エラー 404"
+
+#: inc/breadcrumbs.php:234 inc/header_meta-json.php:16
+msgid "No title"
+msgstr "タイトルがありません"
+
+#: inc/customizer.php:21
+msgid "Simple Days settings"
+msgstr "Simple Days設定"
+
+#: inc/customizer.php:26 inc/customizer.php:143 inc/customizer.php:712
+#: inc/customizer.php:2080
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/customizer.php:43
+msgid "Sidebar Layout"
+msgstr "サイドバーの位置"
+
+#: inc/customizer.php:47
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: inc/customizer.php:51
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: inc/customizer.php:55
+msgid "No Sidebar"
+msgstr "サイドバー無し"
+
+#: inc/customizer.php:71
+msgid "Box Style"
+msgstr "ボックススタイル"
+
+#: inc/customizer.php:75
+msgid "Flat"
+msgstr "フラット"
+
+#: inc/customizer.php:76
+msgid "Shadow"
+msgstr "シャドウ"
+
+#: inc/customizer.php:95
+msgid "the separator for the document title."
+msgstr "記事タイトルとサイト名の区切り"
+
+#: inc/customizer.php:133
+msgid "to be single column when you type post id."
+msgstr "1カラムにしたい記事のIDを入力。"
+
+#: inc/customizer.php:134 inc/widget_postlist-popular.php:209
+#: inc/widget_postlist-popular.php:213 inc/widget_postlist-recent_thum.php:117
+#: inc/widget_postlist-recent_thum.php:121 inc/widget_postlist-recommend.php:88
+#: inc/widget_postlist-update.php:157 inc/widget_postlist-update.php:161
+msgid " Multiple id must be seperated by a comma."
+msgstr "複数ある場合は , (コンマ )で区切ってください。"
+
+#: inc/customizer.php:143
+msgid "(Header)"
+msgstr "(ヘッダー)"
+
+#: inc/customizer.php:148
+msgid "Title and Menu Layout"
+msgstr "タイトルとメニューの表示位置"
+
+#: inc/customizer.php:152
+msgid "One row Left Title Right Menu"
+msgstr "1行　左タイトル　右メニュー"
+
+#: inc/customizer.php:156
+msgid "One row Left Menu Right Title"
+msgstr "1行　左メニュー　右タイトル"
+
+#: inc/customizer.php:160
+msgid "Two rows Up Title Down Menu"
+msgstr "2行　上タイトル　下メニュー"
+
+#: inc/customizer.php:164
+msgid "Two rows Up Menu Down Title"
+msgstr "2行　上メニュー　下タイトル"
+
+#: inc/customizer.php:175
+msgid "Title display position ( when Two rows )"
+msgstr "タイトルの表示位置 (2行表示の時)"
+
+#: inc/customizer.php:179 inc/customizer.php:193 inc/customizer.php:754
+#: inc/customizer.php:810 inc/customizer.php:837 inc/customizer.php:907
+#: inc/customizer.php:1015 inc/customizer.php:1068 inc/customizer.php:1326
+#: inc/customizer.php:1379 inc/customizer.php:1730 inc/customizer.php:1961
+#: inc/customizer.php:2926
+msgid "Left"
+msgstr "左"
+
+#: inc/customizer.php:180 inc/customizer.php:194 inc/customizer.php:908
+#: inc/customizer.php:1731 inc/customizer.php:2927
+msgid "Center"
+msgstr "中央"
+
+#: inc/customizer.php:181 inc/customizer.php:195 inc/customizer.php:755
+#: inc/customizer.php:811 inc/customizer.php:838 inc/customizer.php:909
+#: inc/customizer.php:1016 inc/customizer.php:1069 inc/customizer.php:1327
+#: inc/customizer.php:1380 inc/customizer.php:1732 inc/customizer.php:1962
+#: inc/customizer.php:2928
+msgid "Right"
+msgstr "右"
+
+#: inc/customizer.php:189
+msgid "Menu display position ( when Two rows )"
+msgstr "メニューの表示位置 (2行表示の時)"
+
+#: inc/customizer.php:205
+msgid "Sticky header"
+msgstr "ヘッダーの固定"
+
+#: inc/customizer.php:216
+msgid "Display header shadow"
+msgstr "ヘッダーにシャドーを表示する"
+
+#: inc/customizer.php:227
+msgid "Display search button in header for mobile user"
+msgstr "モバイルユーザーにはヘッダーに検索ボタンを表示する"
+
+#: inc/customizer.php:239
+msgid "Fonts"
+msgstr "フォント"
+
+#: inc/customizer.php:261
+msgid "Anaglyph"
+msgstr "アナグリフ"
+
+#: inc/customizer.php:262
+msgid "Brick Sign"
+msgstr "レンガ調"
+
+#: inc/customizer.php:263
+msgid "Canvas Print"
+msgstr "キャンバス調"
+
+#: inc/customizer.php:264
+msgid "Crackle"
+msgstr "ひび割れ"
+
+#: inc/customizer.php:265
+msgid "Decaying"
+msgstr "腐食"
+
+#: inc/customizer.php:266
+msgid "Destruction"
+msgstr "破壊"
+
+#: inc/customizer.php:267
+msgid "Distressed"
+msgstr "アンティーク調"
+
+#: inc/customizer.php:268
+msgid "Distressed Wood"
+msgstr "アンティーク調の木材"
+
+#: inc/customizer.php:269
+msgid "Emboss"
+msgstr "浮き彫り"
+
+#: inc/customizer.php:270
+msgid "Fire"
+msgstr "炎"
+
+#: inc/customizer.php:271
+msgid "Fire Animation"
+msgstr "炎のアニメーション"
+
+#: inc/customizer.php:272
+msgid "Fragile"
+msgstr "かよわい"
+
+#: inc/customizer.php:273
+msgid "Grass"
+msgstr "芝生"
+
+#: inc/customizer.php:274
+msgid "Ice"
+msgstr "アイス"
+
+#: inc/customizer.php:275
+msgid "Mitosis"
+msgstr "細胞分裂"
+
+#: inc/customizer.php:276
+msgid "Neon"
+msgstr "ネオン"
+
+#: inc/customizer.php:277
+msgid "Outline"
+msgstr "輪郭"
+
+#: inc/customizer.php:278
+msgid "Putting Green"
+msgstr "ゴルフグリーン"
+
+#: inc/customizer.php:279
+msgid "Scuffed Steel"
+msgstr "かすれた鋼"
+
+#: inc/customizer.php:280
+msgid "Shadow Multiple"
+msgstr "影"
+
+#: inc/customizer.php:281
+msgid "Splintered"
+msgstr "砕片"
+
+#: inc/customizer.php:282
+msgid "Static"
+msgstr "静電気"
+
+#: inc/customizer.php:283
+msgid "Stonewash"
+msgstr "ストーンウオッシュ"
+
+#: inc/customizer.php:284
+msgid "Three Dimensional"
+msgstr "3次元"
+
+#: inc/customizer.php:285
+msgid "Three Dimensional Float"
+msgstr "浮かぶ3 次元"
+
+#: inc/customizer.php:286
+msgid "Vintage"
+msgstr "ビンテージ"
+
+#: inc/customizer.php:287
+msgid "Wallpaper"
+msgstr "壁紙"
+
+#: inc/customizer.php:295 inc/customizer.php:352
+msgid "Web Safe Fonts"
+msgstr "Webセーフフォント"
+
+#: inc/customizer.php:306 inc/customizer.php:364 inc/customizer.php:466
+#: inc/customizer.php:543
+msgctxt "font"
+msgid "Body"
+msgstr "全体"
+
+#: inc/customizer.php:317 inc/customizer.php:378 inc/customizer.php:478
+#: inc/customizer.php:556
+msgctxt "font"
+msgid "Headings"
+msgstr "見出し"
+
+#: inc/customizer.php:328 inc/customizer.php:391 inc/customizer.php:419
+#: inc/customizer.php:490 inc/customizer.php:568 inc/customizer.php:596
+msgctxt "font"
+msgid "Site title"
+msgstr "サイトタイトル"
+
+#: inc/customizer.php:339 inc/customizer.php:406 inc/customizer.php:431
+#: inc/customizer.php:503 inc/customizer.php:583 inc/customizer.php:608
+msgctxt "font"
+msgid "Post title"
+msgstr "記事タイトル"
+
+#: inc/customizer.php:350 inc/customizer.php:449
+msgid "Google Fonts"
+msgstr "Googleフォント"
+
+#: inc/customizer.php:352 inc/customizer.php:449 inc/customizer.php:518
+#, php-format
+msgid "This selection overrides %s."
+msgstr "ここを設定すると%sよりも優先されます。"
+
+#: inc/customizer.php:419 inc/customizer.php:431 inc/customizer.php:596
+#: inc/customizer.php:608
+msgid "(Effect)"
+msgstr "(効果)"
+
+#: inc/customizer.php:447 inc/customizer.php:518
+msgid "Local Fonts Japanese"
+msgstr "日本語ローカルフォント"
+
+#: inc/customizer.php:455
+msgid ""
+"Verdana, \"YuGothic\", YuGothic, \"Hiragino Kaku Gothic ProN W3\", "
+"\"Hiragino Kaku Gothic ProN\", \"Meiryo\", Meiryo, sans-serif"
+msgstr ""
+"Verdana, \"游ゴシック\", YuGothic, \"ヒラギノ角ゴ ProN W3\", \"Hiragino Kaku "
+"Gothic ProN\", \"メイリオ\", Meiryo, sans-serif"
+
+#: inc/customizer.php:456
+msgid ""
+"\"Times New Roman\", \"YuMincho\", YuMincho, \"Hiragino Mincho ProN W3\", "
+"\"Hiragino Mincho ProN\", \"Meiryo\", Meiryo, serif"
+msgstr ""
+"\"Times New Roman\", \"游明朝\", YuMincho, \"ヒラギノ明朝 ProN W3\", "
+"\"Hiragino Mincho ProN\", \"メイリオ\", Meiryo, serif"
+
+#: inc/customizer.php:457
+msgid "\"Osaka\", Osaka-mono, \"MS Gothic\", \"MS Gothic\", monospace"
+msgstr ""
+"\"Osaka－等幅\", Osaka-mono, \"ＭＳ ゴシック\", \"MS Gothic\", monospace"
+
+#: inc/customizer.php:458
+msgid ""
+"Verdana, Roboto, \"Droid Sans\", \"YuGothic\", YuGothic, \"Hiragino Kaku "
+"Gothic ProN W3\", \"Hiragino Kaku Gothic ProN\", \"Meiryo\", Meiryo, sans-"
+"serif"
+msgstr ""
+"Verdana, Roboto, \"Droid Sans\", \"游ゴシック\", YuGothic, \"ヒラギノ角ゴ "
+"ProN W3\", \"Hiragino Kaku Gothic ProN\", \"メイリオ\", Meiryo, sans-serif"
+
+#: inc/customizer.php:516
+msgid "Google Fonts Japanese"
+msgstr "日本語Googleフォント"
+
+#: inc/customizer.php:526
+msgid "Sawarabi Mincho"
+msgstr "さわらび明朝"
+
+#: inc/customizer.php:527
+msgid "Sawarabi Gothic"
+msgstr "さわらびゴシック"
+
+#: inc/customizer.php:530
+msgid "Hannari"
+msgstr "はんなり明朝"
+
+#: inc/customizer.php:531
+msgid "Kokoro"
+msgstr "こころ明朝"
+
+#: inc/customizer.php:532
+msgid "Nikukyu"
+msgstr "ニクキュウ"
+
+#: inc/customizer.php:533
+msgid "Nico Moji"
+msgstr "ニコモジ"
+
+#: inc/customizer.php:701
+msgid "Index Page"
+msgstr "インデックスページ"
+
+#: inc/customizer.php:713
+msgid "Choose a layout for the blog posts."
+msgstr "記事の表示方法を選択してください。"
+
+#: inc/customizer.php:717
+msgid "List layout"
+msgstr "リスト型"
+
+#: inc/customizer.php:721
+msgid "Two grid layout"
+msgstr "2グリッド"
+
+#: inc/customizer.php:725
+msgid "Three grid layout"
+msgstr "3グリッド"
+
+#: inc/customizer.php:749
+msgid "Thumbnail display position"
+msgstr "サムネイルの表示位置"
+
+#: inc/customizer.php:754
+msgid "(Up)"
+msgstr "(上)"
+
+#: inc/customizer.php:755
+msgid "(Down)"
+msgstr "(下)"
+
+#: inc/customizer.php:756 inc/customizer.php:812 inc/customizer.php:839
+#: inc/customizer.php:910 inc/customizer.php:1017 inc/customizer.php:1070
+#: inc/customizer.php:1328 inc/customizer.php:1381 inc/customizer.php:1963
+#: inc/customizer.php:2173 inc/customizer.php:2192 inc/customizer.php:2202
+#: inc/customizer.php:2873 inc/customizer.php:3195
+msgid "Hide"
+msgstr "非表示"
+
+#: inc/customizer.php:777
+msgid "post date display format"
+msgstr "記事の日付表示"
+
+#: inc/customizer.php:781
+msgid "day-month-year"
+msgstr "日-月-年"
+
+#: inc/customizer.php:782
+msgid "month-day-year"
+msgstr "月-日-年"
+
+#: inc/customizer.php:791
+msgid "post date display shape"
+msgstr "記事の日付表示の型"
+
+#: inc/customizer.php:792
+msgid "around of a line appear rounded or squared"
+msgstr "日付の囲み線"
+
+#: inc/customizer.php:796 inc/customizer.php:2691
+#: inc/widget-another-profile.php:167
+msgid "Circle"
+msgstr "丸"
+
+#: inc/customizer.php:797 inc/customizer.php:2692
+#: inc/widget-another-profile.php:168
+msgid "Square"
+msgstr "四角"
+
+#: inc/customizer.php:806 inc/customizer.php:1064 inc/customizer.php:1375
+msgid "Post date display position"
+msgstr "日付の表示位置"
+
+#: inc/customizer.php:833
+msgid "Post category display position"
+msgstr "カテゴリーの表示位置"
+
+#: inc/customizer.php:858
+msgid "Excerpt length"
+msgstr "抜粋文字数"
+
+#: inc/customizer.php:859 inc/customizer.php:3849 inc/customizer.php:3860
+#: inc/customizer.php:3871 inc/customizer.php:3882 inc/customizer.php:3894
+#: inc/customizer.php:3906 inc/customizer.php:3918 inc/customizer.php:3929
+#: inc/customizer.php:3940 inc/customizer.php:3952 inc/customizer.php:3964
+#: inc/customizer.php:3976
+msgid "default&#58;"
+msgstr "通常&#58;"
+
+#: inc/customizer.php:872
+msgid "Ellipsis"
+msgstr "省略文字"
+
+#: inc/customizer.php:903
+msgid "Read More display position"
+msgstr "続きを読むの場所"
+
+#: inc/customizer.php:919
+msgid "How to Insert Index list widget area"
+msgstr "インデックスリスト内へのウィジェットエリアの挿入方法"
+
+#: inc/customizer.php:923
+msgid "Just after post"
+msgstr "記事の後"
+
+#: inc/customizer.php:924
+msgid "Every post"
+msgstr "記事ごと"
+
+#: inc/customizer.php:934
+msgid "Count of post for above configuring"
+msgstr "上記設定の記事数"
+
+#: inc/customizer.php:950
+msgid "Posts"
+msgstr "投稿"
+
+#: inc/customizer.php:970 inc/customizer.php:1192 inc/customizer.php:1214
+#: inc/customizer.php:1280 inc/customizer.php:1491 inc/customizer.php:1502
+#: inc/customizer.php:1513 inc/customizer.php:1704 inc/customizer.php:1973
+#: inc/customizer.php:2519 inc/customizer.php:2529 inc/customizer.php:2557
+#: inc/customizer.php:2577
+msgid "Display"
+msgstr "表示"
+
+#: inc/customizer.php:971 inc/customizer.php:1281
+#: inc/widget_postlist-popular.php:203 inc/widget_postlist-recent_thum.php:111
+#: inc/widget_postlist-recommend.php:100 inc/widget_postlist-update.php:151
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: inc/customizer.php:982
+msgid "Post title over the thumbnail."
+msgstr "サムネイル上にタイトルを表示する。"
+
+#: inc/customizer.php:993 inc/customizer.php:1303
+msgid "Full width thumbnail at under the header."
+msgstr "ヘッダー下に全幅のサムネイルを表示する。"
+
+#: inc/customizer.php:1011 inc/customizer.php:1322
+msgid "Author display position"
+msgstr "投稿者の表示位置"
+
+#: inc/customizer.php:1026 inc/customizer.php:1337
+msgid "Author icon"
+msgstr "投稿者のアイコン"
+
+#: inc/customizer.php:1079 inc/customizer.php:1390
+msgid "Display method Post date"
+msgstr "日付の表示方法"
+
+#: inc/customizer.php:1083 inc/customizer.php:1394
+msgid "Only Date"
+msgstr "投稿日のみ"
+
+#: inc/customizer.php:1084 inc/customizer.php:1395
+msgid "Date hide when post have update."
+msgstr "更新日がある場合は投稿日を非表示"
+
+#: inc/customizer.php:1085 inc/customizer.php:1396
+msgid "Both"
+msgstr "両方"
+
+#: inc/customizer.php:1094 inc/customizer.php:1405
+msgid "Date icon"
+msgstr "日付のアイコン"
+
+#: inc/customizer.php:1113 inc/customizer.php:1424
+msgid "Update icon"
+msgstr "更新日のアイコン"
+
+#: inc/customizer.php:1142 inc/customizer.php:1451
+msgid "Category icon"
+msgstr "カテゴリーのアイコン"
+
+#: inc/customizer.php:1167 inc/customizer.php:1476
+msgid "Tag icon"
+msgstr "タグのアイコン"
+
+#: inc/customizer.php:1193 inc/customizer.php:1503
+msgid "About the author(Author profile)"
+msgstr "この記事の投稿者"
+
+#: inc/customizer.php:1215 inc/related_posts.php:60
+msgid "Related Posts"
+msgstr "関連記事"
+
+#: inc/customizer.php:1225
+msgid "Related Posts view count."
+msgstr "関連記事の表示数"
+
+#: inc/customizer.php:1226
+msgid "(min1 max18)"
+msgstr "(1～18まで)"
+
+#: inc/customizer.php:1247 inc/customizer.php:1568
+msgid "Reorder Sections"
+msgstr "セクションの並び替え"
+
+#: inc/customizer.php:1248 inc/customizer.php:1569
+msgid "drag the columns to rearrange their order."
+msgstr "カラムをドラッグして並び替えます"
+
+#: inc/customizer.php:1262
+msgctxt "customizer"
+msgid "Page"
+msgstr "固定ページ"
+
+#: inc/customizer.php:1292
+msgid "Page title over the thumbnail."
+msgstr "サムネイル上にタイトルを表示する。"
+
+#: inc/customizer.php:1492 inc/customizer.php:2370
+msgid "Social share"
+msgstr "SNSシェア"
+
+#: inc/customizer.php:1514 inc/related_pages.php:65
+msgid "Related Pages"
+msgstr "関連ページ"
+
+#: inc/customizer.php:1514
+msgid "The plugin [Pages with category and tag] is needed"
+msgstr "プラグイン[Pages with category and tag] が必要です。"
+
+#: inc/customizer.php:1537 inc/customizer.php:3669
+#, php-format
+msgid "Install Plugin [ %s ]"
+msgstr "プラグイン [ %s ] のインストール"
+
+#: inc/customizer.php:1537 inc/customizer.php:1539
+msgid "Pages with category and tag"
+msgstr "Pages with category and tag"
+
+#: inc/customizer.php:1550
+msgid "Related Pages view count."
+msgstr "関連ページの表示数"
+
+#: inc/customizer.php:1551
+msgid "multiples of 3 (min3 max18)"
+msgstr "3の倍数で3～18まで"
+
+#: inc/customizer.php:1578
+msgid "Menu Icon"
+msgstr "メニューアイコン"
+
+#: inc/customizer.php:1591
+msgid "FontAwesome 4 Icon List"
+msgstr "FontAwesome 4 アイコンリスト"
+
+#: inc/customizer.php:1591
+msgid "You need full icons?"
+msgstr "全てのアイコンが必要ですか?"
+
+#: inc/customizer.php:1600
+msgid "Header Menu Icon"
+msgstr "ヘッダーのメニューアイコン"
+
+#: inc/customizer.php:1615 inc/customizer.php:1664
+#, php-format
+msgid "Icon #%s"
+msgstr "アイコン #%s"
+
+#: inc/customizer.php:1627 inc/customizer.php:1676
+#, php-format
+msgid "Icon color #%s"
+msgstr "アイコンカラー #%s"
+
+#: inc/customizer.php:1636 inc/customizer.php:1685
+msgid "after icon"
+msgstr "アイコンを後ろに"
+
+#: inc/customizer.php:1650
+msgid "Footer Menu Icon"
+msgstr "フッターのメニューアイコン"
+
+#: inc/customizer.php:1696
+msgid "Alert Box"
+msgstr "アラートボックス"
+
+#: inc/customizer.php:1715
+msgid "Text"
+msgstr "文章"
+
+#: inc/customizer.php:1726
+msgid "Text display position"
+msgstr "文章の表示する位置"
+
+#: inc/customizer.php:1740
+msgid "Text Size"
+msgstr "文章のサイズ"
+
+#: inc/customizer.php:1849
+msgid "Heading icon"
+msgstr "見出しアイコン"
+
+#: inc/customizer.php:1859
+msgid "Ending icon"
+msgstr "終わりのアイコン"
+
+#: inc/customizer.php:1870
+msgid "Text Color"
+msgstr "文字色"
+
+#: inc/customizer.php:1879 inc/customizer.php:3847
+msgid "Background Color"
+msgstr "背景色"
+
+#: inc/customizer.php:1890
+msgid "Border Type"
+msgstr "線のタイプ"
+
+#: inc/customizer.php:1894
+msgid "none"
+msgstr "無し"
+
+#: inc/customizer.php:1895
+msgid "Solid"
+msgstr "Solid"
+
+#: inc/customizer.php:1896
+msgid "Double"
+msgstr "Double"
+
+#: inc/customizer.php:1897
+msgid "Groove"
+msgstr "Groove"
+
+#: inc/customizer.php:1898
+msgid "Ridge"
+msgstr "Ridge"
+
+#: inc/customizer.php:1899
+msgid "Inset"
+msgstr "Inset"
+
+#: inc/customizer.php:1900
+msgid "Outset"
+msgstr "Outset"
+
+#: inc/customizer.php:1901
+msgid "Dashed"
+msgstr "Dashed"
+
+#: inc/customizer.php:1902
+msgid "Dotted"
+msgstr "Dotted"
+
+#: inc/customizer.php:1910
+msgid "Border width"
+msgstr "線の幅"
+
+#: inc/customizer.php:1923
+msgid "Border Color"
+msgstr "線の色"
+
+#: inc/customizer.php:1932
+msgid "Border is inside"
+msgstr "線を内側に配置"
+
+#: inc/customizer.php:1948
+msgid "Breadcrumbs"
+msgstr "パンくずリスト"
+
+#: inc/customizer.php:1957
+msgid "Breadcrumbs display position"
+msgstr "パンくずリスト表示位置"
+
+#: inc/customizer.php:1974
+msgid "Current name"
+msgstr "現在のページ名"
+
+#: inc/customizer.php:1987
+msgid "Delimiter"
+msgstr "区切り文字"
+
+#: inc/customizer.php:2010
+msgid "Home icon"
+msgstr "ホームアイコン"
+
+#: inc/customizer.php:2033
+msgid "Tree icon"
+msgstr "ツリーアイコン"
+
+#: inc/customizer.php:2056
+msgid "Current icon"
+msgstr "現在のアイコン"
+
+#: inc/customizer.php:2080
+msgid "(Footer)"
+msgstr "(フッター)"
+
+#: inc/customizer.php:2090
+msgid "Footer Menu Layout"
+msgstr "フッターメニューの位置"
+
+#: inc/customizer.php:2094
+msgid "First"
+msgstr "上"
+
+#: inc/customizer.php:2098
+msgid "Second"
+msgstr "真ん中"
+
+#: inc/customizer.php:2102
+msgid "Third"
+msgstr "下"
+
+#: inc/customizer.php:2123
+msgid "Back to top button"
+msgstr "トップへ戻るボタン"
+
+#: inc/customizer.php:2154
+msgid "Year of Publication"
+msgstr "最初に投稿した年"
+
+#: inc/customizer.php:2174
+msgid "Description"
+msgstr "サイト説明"
+
+#: inc/customizer.php:2193
+msgid "Powered by WordPress"
+msgstr "Powered by WordPress"
+
+#: inc/customizer.php:2203
+msgid "Theme by Simple Days"
+msgstr "Theme by Simple Days"
+
+#: inc/customizer.php:2213
+msgid "Simple Days Widget"
+msgstr "Simple Days ウィジェット"
+
+#: inc/customizer.php:2223
+msgid "Add Social Links Widget"
+msgstr "SNSリンクウイジェットを追加する"
+
+#: inc/customizer.php:2233
+msgid "Recent Posts with thumbnail widget"
+msgstr "サムネイル付き最近の投稿ウィジェット"
+
+#: inc/customizer.php:2243
+msgid "Update Posts with thumbnail widget"
+msgstr "サムネイル付き更新された投稿ウィジェット"
+
+#: inc/customizer.php:2253
+msgid "Recommended Posts with thumbnail widget"
+msgstr "サムネイル付きおすすめの投稿ウィジェット"
+
+#: inc/customizer.php:2263 inc/widget-dd-archives.php:16
+msgid "Drop Down Archives widget without JavaScript"
+msgstr "JavaScriptを使用しないドロップダウンアーカイブウィジェット"
+
+#: inc/customizer.php:2273 inc/widget-dd-categories.php:16
+msgid "Drop Down Categories widget without JavaScript"
+msgstr "JavaScriptを使用しないドロップダウンカテゴリーウィジェット"
+
+#: inc/customizer.php:2281 inc/customizer.php:2283 inc/customizer.php:2299
+#: inc/customizer.php:2332 inc/customizer.php:2343 inc/customizer.php:3143
+#: inc/customizer.php:3154 inc/customizer.php:3181 inc/customizer.php:3232
+#: inc/customizer.php:3269 inc/customizer.php:3280 inc/customizer.php:3292
+#: inc/customizer.php:3303 inc/customizer.php:3339 inc/customizer.php:3383
+#: inc/customizer.php:3462
+msgid "e.g.&nbsp;"
+msgstr "例&nbsp;"
+
+#: inc/customizer.php:2282 inc/customizer.php:2299
+msgid "type the &lowast; part of your url"
+msgstr "あなたのURLの&lowast;部分を入力してください。"
+
+#: inc/customizer.php:2283
+msgid "add your amazon website's full URL"
+msgstr "アマゾンのフルURLを入力してください。"
+
+#: inc/customizer.php:2283
+msgid "Your wish list URL"
+msgstr "ウィッシュリストのURLなど"
+
+#: inc/customizer.php:2308 inc/customizer.php:2806
+#: inc/widget-social-links.php:160
+msgid "Social Account"
+msgstr "SNSのアカウント"
+
+#: inc/customizer.php:2331
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: inc/customizer.php:2342
+msgid "Facebook fb:admins"
+msgstr "Facebook fb:admins"
+
+#: inc/customizer.php:2351
+msgid "Social Share"
+msgstr "SNSのシェア"
+
+#: inc/customizer.php:2374 inc/customizer.php:3131 inc/customizer.php:3429
+#: inc/customizer.php:3519
+msgid "Disable"
+msgstr "無効"
+
+#: inc/customizer.php:2425
+msgid "Title icon"
+msgstr "タイトルのアイコン"
+
+#: inc/customizer.php:2441 inc/social-share.php:65
+msgid "Share this post"
+msgstr "シェア"
+
+#: inc/customizer.php:2445 inc/customizer.php:2659
+#: inc/widget-another-profile.php:140 inc/widget-dd-archives.php:38
+#: inc/widget-dd-categories.php:53 inc/widget-social-links.php:109
+#: inc/widget_postlist-popular.php:169 inc/widget_postlist-recent_thum.php:96
+#: inc/widget_postlist-recommend.php:84 inc/widget_postlist-update.php:136
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer.php:2453
+msgid "buffer"
+msgstr "buffer"
+
+#: inc/customizer.php:2454
+msgid "digg"
+msgstr "digg"
+
+#: inc/customizer.php:2455
+msgid "Email"
+msgstr "Eメール"
+
+#: inc/customizer.php:2456
+msgid "Evernote"
+msgstr "Evernote"
+
+#: inc/customizer.php:2457 inc/customizer.php:2558 inc/social-list.php:13
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:2458 inc/social-list.php:17
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/customizer.php:2459 inc/social-list.php:18
+msgid "Hatena Bookmark"
+msgstr "はてなブックマーク"
+
+#: inc/customizer.php:2460 inc/social-list.php:20
+msgid "Line"
+msgstr "Line"
+
+#: inc/customizer.php:2461 inc/social-list.php:21
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:2462
+msgid "Messenger"
+msgstr "メッセンジャー"
+
+#: inc/customizer.php:2463 inc/social-list.php:23
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:2464
+msgid "Pocket"
+msgstr "Pocket"
+
+#: inc/customizer.php:2465
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/customizer.php:2466 inc/social-list.php:26
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer.php:2467 inc/customizer.php:2578 inc/social-list.php:27
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:2468
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: inc/customizer.php:2486
+#, php-format
+msgid "Social share Icon #%s"
+msgstr "SNSシェア アイコン #%s"
+
+#: inc/customizer.php:2501
+msgid "Social CTA"
+msgstr "SNSのCTA"
+
+#: inc/customizer.php:2520
+msgid "call-to-action under in the contents of the post"
+msgstr "投稿記事の下にコールトゥアクションを表示する"
+
+#: inc/customizer.php:2530
+msgid "call-to-action under in the contents of the page"
+msgstr "固定ページ記事の下にコールトゥアクションを表示する"
+
+#: inc/customizer.php:2535 inc/social-cta.php:27
+msgid "Follow us"
+msgstr "是非フォローしてください"
+
+#: inc/customizer.php:2539
+msgid "heading text"
+msgstr "見出しの文章"
+
+#: inc/customizer.php:2544 inc/social-cta.php:70
+msgid "We will keep you updated"
+msgstr "最新の情報をお伝えします"
+
+#: inc/customizer.php:2548
+msgid "end text"
+msgstr "末尾の文章"
+
+#: inc/customizer.php:2568
+msgid "required Facebook script."
+msgstr "Facebookに必要なスクリプト。"
+
+#: inc/customizer.php:2568
+msgid "be careful not to conflict"
+msgstr "競合に気をつけてください。"
+
+#: inc/customizer.php:2587
+msgid "Gradation Color"
+msgstr "グラデーションカラー"
+
+#: inc/customizer.php:2588
+msgid "Background color"
+msgstr "背景色"
+
+#: inc/customizer.php:2631
+msgid "Profile Widget"
+msgstr "プロフィールウィジェット"
+
+#: inc/customizer.php:2640
+msgid "Add Profile Widget"
+msgstr "プロフィールウィジェットを追加する"
+
+#: inc/customizer.php:2650
+msgid "Add Another Profile Widget"
+msgstr "もう一人のプロフィールウィジェットを追加する"
+
+#: inc/customizer.php:2655
+msgid "Profile"
+msgstr "プロフィール"
+
+#: inc/customizer.php:2668 inc/widget-another-profile.php:144
+msgid "Name"
+msgstr "名前"
+
+#: inc/customizer.php:2677 inc/widget-another-profile.php:151
+msgid "Profile image"
+msgstr "プロフィール画像"
+
+#: inc/customizer.php:2678
+msgid "Profile use this image."
+msgstr "この画像をプロフィールに使います"
+
+#: inc/customizer.php:2687 inc/widget-another-profile.php:165
+msgid "Profile image display shape"
+msgstr "プロフィール画像の縁"
+
+#: inc/customizer.php:2700 inc/widget-another-profile.php:173
+msgid "Background image"
+msgstr "背景画像"
+
+#: inc/customizer.php:2701
+msgid "Background use this image."
+msgstr "この画像を背景に使います"
+
+#: inc/customizer.php:2710 inc/widget-another-profile.php:187
+msgid "Profile text"
+msgstr "プロフィール文章"
+
+#: inc/customizer.php:2719 inc/widget-another-profile.php:192
+msgid "Read more URL"
+msgstr "続きを読むのURL"
+
+#: inc/customizer.php:2724 inc/widget-another-profile.php:37
+#: inc/widget-another-profile.php:124 inc/widget-profile.php:38
+#: template-parts/content.php:56
+msgid "Read More"
+msgstr "続きを読む"
+
+#: inc/customizer.php:2728 inc/widget-another-profile.php:197
+msgid "Read more text"
+msgstr "続きを読むの文字"
+
+#: inc/customizer.php:2738 inc/widget-another-profile.php:202
+msgid "Read more link open new window."
+msgstr "続きを読むのリンクを新しいタブで開く"
+
+#: inc/customizer.php:2750
+msgid "Social Links"
+msgstr "SNSのリンク"
+
+#: inc/customizer.php:2804 inc/widget-social-links.php:150
+msgid "How to show social icon"
+msgstr "SNSアイコンの表示方法"
+
+#: inc/customizer.php:2806 inc/widget-social-links.php:160
+#, php-format
+msgid "You must register your %1$s before you can show social links."
+msgstr "%1$s を登録をするとSNSのリンクが表示されます。"
+
+#: inc/customizer.php:2830
+msgid "Popular Post"
+msgstr "人気記事"
+
+#: inc/customizer.php:2839
+msgid "Count Popular Post"
+msgstr "人気記事のカウント"
+
+#: inc/customizer.php:2849
+msgid "Popular Posts Widgets"
+msgstr "人気記事のウィジェット"
+
+#: inc/customizer.php:2869
+msgid "Display page view at the each post."
+msgstr "各ページのアクセス数を表示する。"
+
+#: inc/customizer.php:2874
+msgid "Page View"
+msgstr "全アクセス数"
+
+#: inc/customizer.php:2875
+msgid "Yearly Page View"
+msgstr "年間アクセス数"
+
+#: inc/customizer.php:2876
+msgid "Monthly Page View"
+msgstr "月間アクセス数"
+
+#: inc/customizer.php:2877
+msgid "Weekly Page View"
+msgstr "週間アクセス数"
+
+#: inc/customizer.php:2878
+msgid "Daily Page View"
+msgstr "日間アクセス数"
+
+#: inc/customizer.php:2887
+msgid "Page view icon"
+msgstr "アクセス数のアイコン"
+
+#: inc/customizer.php:2922
+msgid "Post view display position"
+msgstr "アクセス数の表示位置"
+
+#: inc/customizer.php:2942
+msgid "Display page view to logout user."
+msgstr "ログアウトしているユーザーにも表示する。"
+
+#: inc/customizer.php:2951
+msgid "Table of contents"
+msgstr "目次"
+
+#: inc/customizer.php:2971
+msgid "insert table of contents"
+msgstr "目次を挿入する"
+
+#: inc/customizer.php:2977 inc/extra-content.php:35
+msgctxt "toc"
+msgid "Contents"
+msgstr "目次"
+
+#: inc/customizer.php:2981
+msgctxt "toc"
+msgid "Toc Title"
+msgstr "目次タイトル"
+
+#: inc/customizer.php:2991
+msgid "Initially hide table of contents"
+msgstr "最初は目次を隠す"
+
+#: inc/customizer.php:3000
+msgid "lower limit the heading which toc is displayed"
+msgstr "目次を表示させる最低限の見出し数"
+
+#: inc/customizer.php:3020
+msgid "Automatically display toc in post"
+msgstr "投稿記事に自動的に目次を挿入する"
+
+#: inc/customizer.php:3029
+msgid "Automatically display toc in page"
+msgstr "固定ページに自動的に目次を挿入する"
+
+#: inc/customizer.php:3038
+msgid "display position"
+msgstr "表示する位置"
+
+#: inc/customizer.php:3042
+msgid "Before the first heading"
+msgstr "最初の見出しの前"
+
+#: inc/customizer.php:3043
+msgid "After the first heading"
+msgstr "最初の見出しの後"
+
+#: inc/customizer.php:3044
+msgid "Top"
+msgstr "上"
+
+#: inc/customizer.php:3052
+msgid "hierarchical view"
+msgstr "階層表示"
+
+#: inc/customizer.php:3061
+msgid "numerical display"
+msgstr "番号の表示"
+
+#: inc/customizer.php:3071
+msgid "Add Widgets TOC"
+msgstr "ウィジェットに目次を追加する"
+
+#: inc/customizer.php:3081
+msgid "Sticky TOC of SideBar Widgets"
+msgstr "サイドバーの目次ウィジェットを固定する"
+
+#: inc/customizer.php:3087
+msgid "Blog Card"
+msgstr "ブログカード"
+
+#: inc/customizer.php:3096
+msgid "Blog card(internal site)"
+msgstr "ブログカード(自サイト)"
+
+#: inc/customizer.php:3106
+msgid "Blog card(external site)"
+msgstr "ブログカード(他サイト)"
+
+#: inc/customizer.php:3117 inc/customizer.php:3127
+msgid "Google Analytics"
+msgstr "Googleアナリティクス"
+
+#: inc/customizer.php:3132
+msgid "ga.js"
+msgstr "ga.js"
+
+#: inc/customizer.php:3133
+msgid "gtag.js"
+msgstr "gtag.js"
+
+#: inc/customizer.php:3142
+msgid "Google Analytics account"
+msgstr "Googleアナリティクス アカウント"
+
+#: inc/customizer.php:3153
+msgid "Google Site Verification"
+msgstr "Google Site Verification"
+
+#: inc/customizer.php:3171
+msgid "Google AdSense"
+msgstr "Google アドセンス"
+
+#: inc/customizer.php:3180
+msgid "Your publisher ID(data-ad-client):"
+msgstr "サイト運営者 ID(data-ad-client):"
+
+#: inc/customizer.php:3191
+msgid "Labeling ads"
+msgstr "広告のラベル表示"
+
+#: inc/customizer.php:3196 inc/widget-google_ad-inarticle.php:37
+#: inc/widget-google_ad-infeed.php:39 inc/widget-google_ad-responsive.php:36
+msgid "Advertisements"
+msgstr "広告"
+
+#: inc/customizer.php:3197 inc/widget-google_ad-inarticle.php:39
+#: inc/widget-google_ad-infeed.php:41 inc/widget-google_ad-responsive.php:38
+msgid "Sponsored Links"
+msgstr "スポンサーリンク"
+
+#: inc/customizer.php:3207 inc/customizer.php:3244 inc/customizer.php:3314
+#, php-format
+msgid "%s ad setting"
+msgstr "%s アドセンスの設定"
+
+#: inc/customizer.php:3207 inc/customizer.php:3220 inc/customizer.php:3231
+#: inc/widget-google_ad-inarticle.php:114 inc/widget-google_ad-infeed.php:135
+msgctxt "google_ad"
+msgid "Responsive"
+msgstr "レスポンシブ"
+
+#: inc/customizer.php:3220 inc/customizer.php:3257 inc/customizer.php:3327
+#, php-format
+msgid "Add Widgets Google AdSense (%s)"
+msgstr "Googleアドセンス (%s) のウィジェットを追加する"
+
+#: inc/customizer.php:3231 inc/customizer.php:3268 inc/customizer.php:3291
+#: inc/customizer.php:3338 inc/widget-google_ad-inarticle.php:108
+#: inc/widget-google_ad-inarticle.php:114 inc/widget-google_ad-infeed.php:115
+#: inc/widget-google_ad-infeed.php:125 inc/widget-google_ad-infeed.php:135
+#, php-format
+msgid "Your %s ad unit's ID(data-ad-slot):"
+msgstr "%s広告ID(data-ad-slot):"
+
+#: inc/customizer.php:3244 inc/customizer.php:3257 inc/customizer.php:3268
+#: inc/customizer.php:3279 inc/customizer.php:3291 inc/customizer.php:3302
+#: inc/widget-google_ad-infeed.php:115 inc/widget-google_ad-infeed.php:120
+#: inc/widget-google_ad-infeed.php:125 inc/widget-google_ad-infeed.php:130
+msgctxt "google_ad"
+msgid "In-feed"
+msgstr "インフィード"
+
+#: inc/customizer.php:3279 inc/customizer.php:3302
+#: inc/widget-google_ad-infeed.php:120 inc/widget-google_ad-infeed.php:130
+#, php-format
+msgid "Your %s ad unit's layout key(data-ad-layout-key):"
+msgstr "%s広告 レイアウトキー(data-ad-layout-key):"
+
+#: inc/customizer.php:3291 inc/customizer.php:3302
+#: inc/widget-google_ad-infeed.php:125 inc/widget-google_ad-infeed.php:130
+msgctxt "google_ad"
+msgid "For Mobile"
+msgstr "モバイル端末向けの"
+
+#: inc/customizer.php:3314 inc/customizer.php:3327 inc/customizer.php:3338
+#: inc/widget-google_ad-inarticle.php:108
+msgctxt "google_ad"
+msgid "In-article"
+msgstr "記事内"
+
+#: inc/customizer.php:3346
+msgid "AMP(beta Ver.)"
+msgstr "AMP(beta Ver.)"
+
+#: inc/customizer.php:3357
+msgid "Accelerated Mobile Pages(AMP)"
+msgstr "Accelerated Mobile Pages(AMP)"
+
+#: inc/customizer.php:3372
+msgid "AMP Logo Image"
+msgstr "AMPロゴ画像"
+
+#: inc/customizer.php:3373
+msgid "AMP Logo use this image."
+msgstr "AMPロゴはこの画像を使います。"
+
+#: inc/customizer.php:3373
+msgid "For more information"
+msgstr "詳しくは"
+
+#: inc/customizer.php:3373
+msgid "click here"
+msgstr "こちらをクリック"
+
+#: inc/customizer.php:3382
+msgid "Google Analytics AMP account"
+msgstr "Google Analytics AMP account"
+
+#: inc/customizer.php:3393
+msgid "OGP"
+msgstr "OGP"
+
+#: inc/customizer.php:3403
+msgid "add metadata for Open Graph protocol(OGP)"
+msgstr "Open Graph protocol(OGP)をmetaデータに追加する"
+
+#: inc/customizer.php:3413
+msgid "OGP Image"
+msgstr "OGPイメージ画像"
+
+#: inc/customizer.php:3414
+msgid "If no thumbnail or home page then use this image."
+msgstr ""
+"サムネイルが無い場合、もしくはホームページのOGPイメージはこの画像を使います。"
+
+#: inc/customizer.php:3425
+msgid "Twitter Card"
+msgstr "Twitter Card"
+
+#: inc/customizer.php:3430
+msgid "Summary Card"
+msgstr "Summary Card"
+
+#: inc/customizer.php:3431
+msgid "Summary Card with Large Image"
+msgstr "Summary Card with Large Image"
+
+#: inc/customizer.php:3441
+msgid "Site map"
+msgstr "サイトマップ"
+
+#: inc/customizer.php:3452
+msgid "Display the site map at the page."
+msgstr "サイトマップを固定ページに表示する"
+
+#: inc/customizer.php:3461
+msgid "Page slug to be display at the page."
+msgstr "表示する固定ページのスラッグ"
+
+#: inc/customizer.php:3475
+msgid "Display the site map link at footer area"
+msgstr "フッターにサイトマップのリンクを表示する"
+
+#: inc/customizer.php:3484
+msgid "JavaScript and CSS"
+msgstr "JavaScriptとCSS"
+
+#: inc/customizer.php:3494 inc/customizer.php:3505
+msgid "use CDN FontAwesome 4"
+msgstr "CDN版FontAwesome 4を使用する"
+
+#: inc/customizer.php:3496
+msgid ""
+"Simple Days's careful selection of FontAwesome icons to make it smoothly."
+msgstr "Simple Daysは動作を軽くするためにFontAwesomeのアイコンを厳選してます。"
+
+#: inc/customizer.php:3496
+msgid "Therefore, you can not use full icons."
+msgstr "そのため全てのアイコンを使う事が出来ません。"
+
+#: inc/customizer.php:3496
+msgid "If you use CDN FontAwesome, you can use full icons."
+msgstr "CDN版FontAwesomeを使えば全てのアイコンが使用可能です。"
+
+#: inc/customizer.php:3496
+msgid "but to be slowly."
+msgstr "そのかわり動作が重くなるでしょう。"
+
+#: inc/customizer.php:3515
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: inc/customizer.php:3520
+msgid "Lity"
+msgstr "Lity"
+
+#: inc/customizer.php:3532
+msgid "use highlight.js"
+msgstr "highlight.jsを使用する"
+
+#: inc/customizer.php:3625
+msgid "Style of highlight.js"
+msgstr "highlight.jsのスタイルシート"
+
+#: inc/customizer.php:3637 inc/customizer.php:3669 inc/customizer.php:3671
+msgid "Word Balloon"
+msgstr "Word Balloon(吹き出し)"
+
+#: inc/customizer.php:3647
+msgid "Use word balloon css when AMP"
+msgstr "AMP時にWord BalloonのCSSを使う"
+
+#: inc/customizer.php:3688
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: inc/customizer.php:3699
+msgid "Select a block to be displayed"
+msgstr "表示するブロックを選択"
+
+#: inc/customizer.php:3736
+msgid "Option"
+msgstr "オプション"
+
+#: inc/customizer.php:3747
+msgid "Uploaded to this post is always enabled on the Add Media."
+msgstr "メディアを追加時にこの投稿へのアップロードを常に有効にする"
+
+#: inc/customizer.php:3759
+msgid "Robots do not search for 404 , search , tag , year , month , day page"
+msgstr "404 、検索、タグ、年、月、日の各ページをロボットに巡回させない。"
+
+#: inc/customizer.php:3770
+msgid "404 Image"
+msgstr "404イメージ"
+
+#: inc/customizer.php:3771
+msgid "404 page use this image."
+msgstr "404のページでこの画像が使われます。"
+
+#: inc/customizer.php:3781
+msgid "No Image"
+msgstr "画像無し"
+
+#: inc/customizer.php:3782
+msgid "No thumbnail page use this image."
+msgstr "サムネイルが無い場合はこの画像が使われます。"
+
+#: inc/customizer.php:3794
+msgid "Text on Header image"
+msgstr "ヘッダーイメージ上のテキスト"
+
+#: inc/customizer.php:3807
+msgid "Skins"
+msgstr "スキン"
+
+#: inc/customizer.php:3808
+msgid "You can easily change color"
+msgstr "簡単に色を変更できます"
+
+#: inc/customizer.php:3813
+msgid "Red Orange"
+msgstr "レッドオレンジ"
+
+#: inc/customizer.php:3814
+msgid "Orange"
+msgstr "オレンジ"
+
+#: inc/customizer.php:3815
+msgid "Rose Peche"
+msgstr "ローズペーシュ"
+
+#: inc/customizer.php:3816
+msgid "Grape Juice"
+msgstr "グレープジュース"
+
+#: inc/customizer.php:3817
+msgid "Blue Yellow"
+msgstr "ブルーイエロー"
+
+#: inc/customizer.php:3818
+msgid "Blue Ocean"
+msgstr "ブルーオーシャン"
+
+#: inc/customizer.php:3819
+msgid "Petrole"
+msgstr "ペトロール"
+
+#: inc/customizer.php:3820
+msgid "Apple Green"
+msgstr "アップルグリーン"
+
+#: inc/customizer.php:3821
+msgid "Moss Green"
+msgstr "モスグリーン"
+
+#: inc/customizer.php:3822
+msgid "Yellow Mustard"
+msgstr "イエローマスタード"
+
+#: inc/customizer.php:3823
+msgid "Cinnamon"
+msgstr "シナモン"
+
+#: inc/customizer.php:3824
+msgid "Brown Bread"
+msgstr "ブラウンブレッド"
+
+#: inc/customizer.php:3825
+msgid "Gray Horse"
+msgstr "グレーホース"
+
+#: inc/customizer.php:3826
+msgid "Black Coffee"
+msgstr "ブラックコーヒー"
+
+#: inc/customizer.php:3835
+msgid "Selects skins randomly at access."
+msgstr "アクセス時にスキンをランダムに選択"
+
+#: inc/customizer.php:3858
+msgid "Link Color"
+msgstr "リンクの色"
+
+#: inc/customizer.php:3869
+msgid "Link Hover Color"
+msgstr "リンクにホバーした時"
+
+#: inc/customizer.php:3880
+msgid "Site Title"
+msgstr "サイトタイトル"
+
+#: inc/customizer.php:3892
+msgid "Header background color"
+msgstr "ヘッダー背景色"
+
+#: inc/customizer.php:3904
+msgid "Header Menu background color"
+msgstr "ヘッダーメニュー背景色"
+
+#: inc/customizer.php:3916
+msgid "Footer Widget background area color"
+msgstr "フッターウィジェットエリアの背景色"
+
+#: inc/customizer.php:3927
+msgid "Footer Widget text color"
+msgstr "フッターウィジェットエリアのテキスト色"
+
+#: inc/customizer.php:3938
+msgid "Footer Widget link color"
+msgstr "フッターウィジェットエリアのリンク色"
+
+#: inc/customizer.php:3950
+msgid "Footer Menu background color"
+msgstr "フッターメニューの背景色"
+
+#: inc/customizer.php:3962
+msgid "Footer color"
+msgstr "フッターの色"
+
+#: inc/customizer.php:3974
+msgid "Over Header background color"
+msgstr "ヘッダー上の背景色"
+
+#: inc/customizer.php:4375
+msgctxt "post_sortable"
+msgid "Breadcrumbs"
+msgstr "パンくずリスト"
+
+#: inc/customizer.php:4378
+msgctxt "post_sortable"
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer.php:4381
+msgctxt "post_sortable"
+msgid "Date"
+msgstr "日付"
+
+#: inc/customizer.php:4384
+msgctxt "post_sortable"
+msgid "Author"
+msgstr "投稿者"
+
+#: inc/customizer.php:4387
+msgctxt "post_sortable"
+msgid "Page views"
+msgstr "アクセス数"
+
+#: inc/customizer.php:4390
+msgctxt "post_sortable"
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: inc/customizer.php:4393
+msgctxt "post_sortable"
+msgid "Content"
+msgstr "記事本文"
+
+#: inc/customizer.php:4396
+msgctxt "post_sortable"
+msgid "Widget"
+msgstr "ウィジェット"
+
+#: inc/customizer.php:4399
+msgctxt "post_sortable"
+msgid "Page Link"
+msgstr "ページリンク"
+
+#: inc/customizer.php:4402
+msgctxt "post_sortable"
+msgid "CTA"
+msgstr "CTA"
+
+#: inc/customizer.php:4405
+msgctxt "post_sortable"
+msgid "Share"
+msgstr "シェア"
+
+#: inc/customizer.php:4408
+msgctxt "post_sortable"
+msgid "About the author"
+msgstr "この記事の投稿者"
+
+#: inc/customizer.php:4411
+msgctxt "post_sortable"
+msgid "Related"
+msgstr "関連記事"
+
+#: inc/customizer.php:4414
+msgctxt "post_sortable"
+msgid "Category"
+msgstr "カテゴリー"
+
+#: inc/customizer.php:4417
+msgctxt "post_sortable"
+msgid "Tag"
+msgstr "タグ"
+
+#: inc/customizer.php:4420
+msgctxt "post_sortable"
+msgid "Pagenation"
+msgstr "ページネーション"
+
+#: inc/customizer.php:4423
+msgctxt "post_sortable"
+msgid "Comment"
+msgstr "コメント"
+
+#: inc/customizer.php:4492
+#, php-format
+msgid "Install %s"
+msgstr "%sをインストール"
+
+#: inc/customizer.php:4499
+#, php-format
+msgid "Activate %s"
+msgstr "%sを有効化"
+
+#: inc/customizer.php:4506
+msgid "Already activated"
+msgstr "有効"
+
+#: inc/customizer.php:4519
+msgid "Activating&hellip;"
+msgstr "有効にしています&hellip;"
+
+#: inc/customizer.php:4519
+msgid "Activated"
+msgstr "有効化"
+
+#: inc/extra-content.php:35
+msgctxt "toc"
+msgid "view"
+msgstr "&ensp;表示&ensp;"
+
+#: inc/extra-content.php:35
+msgid "hide"
+msgstr "非表示"
+
+#: inc/extra-content.php:350
+msgid "file"
+msgstr "ファイル"
+
+#: inc/extra-content.php:474 inc/extra-content.php:476
+msgid "Code check to master page"
+msgstr "通常ページでコードを確認する"
+
+#: inc/gutenberg_block-list.php:11
+msgctxt "gutenberg_block"
+msgid "Paragraph"
+msgstr "段落"
+
+#: inc/gutenberg_block-list.php:12
+msgctxt "gutenberg_block"
+msgid "Image"
+msgstr "画像"
+
+#: inc/gutenberg_block-list.php:13
+msgctxt "gutenberg_block"
+msgid "Heading"
+msgstr "見出し"
+
+#: inc/gutenberg_block-list.php:14
+msgctxt "gutenberg_block"
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: inc/gutenberg_block-list.php:15
+msgctxt "gutenberg_block"
+msgid "List"
+msgstr "リスト"
+
+#: inc/gutenberg_block-list.php:16
+msgctxt "gutenberg_block"
+msgid "Quote"
+msgstr "引用"
+
+#: inc/gutenberg_block-list.php:17
+msgctxt "gutenberg_block"
+msgid "Audio"
+msgstr "音声"
+
+#: inc/gutenberg_block-list.php:18
+msgctxt "gutenberg_block"
+msgid "Cover Image"
+msgstr "カバー画像"
+
+#: inc/gutenberg_block-list.php:19
+msgctxt "gutenberg_block"
+msgid "File"
+msgstr "ファイル"
+
+#: inc/gutenberg_block-list.php:21
+msgctxt "gutenberg_block"
+msgid "Video"
+msgstr "動画"
+
+#: inc/gutenberg_block-list.php:23
+msgctxt "gutenberg_block"
+msgid "Classic"
+msgstr "クラシック"
+
+#: inc/gutenberg_block-list.php:24
+msgctxt "gutenberg_block"
+msgid "Code"
+msgstr "コード"
+
+#: inc/gutenberg_block-list.php:25
+msgctxt "gutenberg_block"
+msgid "Custom HTML"
+msgstr "カスタム HTML"
+
+#: inc/gutenberg_block-list.php:26
+msgctxt "gutenberg_block"
+msgid "Preformatted"
+msgstr "整形済みテキスト"
+
+#: inc/gutenberg_block-list.php:27
+msgctxt "gutenberg_block"
+msgid "Pullquote"
+msgstr "リードコラム"
+
+#: inc/gutenberg_block-list.php:28
+msgctxt "gutenberg_block"
+msgid "Table"
+msgstr "テーブル"
+
+#: inc/gutenberg_block-list.php:29
+msgctxt "gutenberg_block"
+msgid "Verse"
+msgstr "詩"
+
+#: inc/gutenberg_block-list.php:31
+msgctxt "gutenberg_block"
+msgid "Columns"
+msgstr "カラム"
+
+#: inc/gutenberg_block-list.php:32
+msgctxt "gutenberg_block"
+msgid "Button"
+msgstr "ボタン"
+
+#: inc/gutenberg_block-list.php:33
+msgctxt "gutenberg_block"
+msgid "More"
+msgstr "続きを読む"
+
+#: inc/gutenberg_block-list.php:34
+msgctxt "gutenberg_block"
+msgid "Page break"
+msgstr "ページ区切り"
+
+#: inc/gutenberg_block-list.php:35
+msgctxt "gutenberg_block"
+msgid "Separator"
+msgstr "区切り"
+
+#: inc/gutenberg_block-list.php:36
+msgctxt "gutenberg_block"
+msgid "Spacer"
+msgstr "空白"
+
+#: inc/gutenberg_block-list.php:39
+msgctxt "gutenberg_block"
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: inc/gutenberg_block-list.php:40
+msgctxt "gutenberg_block"
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: inc/gutenberg_block-list.php:41
+msgctxt "gutenberg_block"
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: inc/gutenberg_block-list.php:42
+msgctxt "gutenberg_block"
+msgid "Latest Comments"
+msgstr "最新のコメント"
+
+#: inc/gutenberg_block-list.php:43
+msgctxt "gutenberg_block"
+msgid "Latest Posts"
+msgstr "最新の記事"
+
+#: inc/gutenberg_block-list.php:45
+msgctxt "gutenberg_block"
+msgid "Embed"
+msgstr "埋め込み"
+
+#: inc/gutenberg_block-list.php:52
+msgctxt "gutenberg_block"
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/gutenberg_block-list.php:53
+msgctxt "gutenberg_block"
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/gutenberg_block-list.php:54
+msgctxt "gutenberg_block"
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/gutenberg_block-list.php:55
+msgctxt "gutenberg_block"
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/gutenberg_block-list.php:56
+msgctxt "gutenberg_block"
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/gutenberg_block-list.php:57
+msgctxt "gutenberg_block"
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: inc/gutenberg_block-list.php:58
+msgctxt "gutenberg_block"
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/gutenberg_block-list.php:59
+msgctxt "gutenberg_block"
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/gutenberg_block-list.php:60
+msgctxt "gutenberg_block"
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/gutenberg_block-list.php:61
+msgctxt "gutenberg_block"
+msgid "Animoto"
+msgstr "Animoto"
+
+#: inc/gutenberg_block-list.php:62
+msgctxt "gutenberg_block"
+msgid "Cloudup"
+msgstr "Cloudup"
+
+#: inc/gutenberg_block-list.php:63
+msgctxt "gutenberg_block"
+msgid "CollegeHumor"
+msgstr "CollegeHumor"
+
+#: inc/gutenberg_block-list.php:64
+msgctxt "gutenberg_block"
+msgid "Dailymotion"
+msgstr "Dailymotion"
+
+#: inc/gutenberg_block-list.php:65
+msgctxt "gutenberg_block"
+msgid "Funny or Die"
+msgstr "Funny or Die"
+
+#: inc/gutenberg_block-list.php:66
+msgctxt "gutenberg_block"
+msgid "Hulu"
+msgstr "Hulu"
+
+#: inc/gutenberg_block-list.php:67
+msgctxt "gutenberg_block"
+msgid "Imgur"
+msgstr "Imgur"
+
+#: inc/gutenberg_block-list.php:68
+msgctxt "gutenberg_block"
+msgid "Issuu"
+msgstr "Issuu"
+
+#: inc/gutenberg_block-list.php:69
+msgctxt "gutenberg_block"
+msgid "Kickstarter"
+msgstr "Kickstarter"
+
+#: inc/gutenberg_block-list.php:70
+msgctxt "gutenberg_block"
+msgid "Meetup.com"
+msgstr "Meetup.com"
+
+#: inc/gutenberg_block-list.php:71
+msgctxt "gutenberg_block"
+msgid "Mixcloud"
+msgstr "Mixcloud"
+
+#: inc/gutenberg_block-list.php:72
+msgctxt "gutenberg_block"
+msgid "Photobucket"
+msgstr "Photobucket"
+
+#: inc/gutenberg_block-list.php:73
+msgctxt "gutenberg_block"
+msgid "Polldaddy"
+msgstr "Polldaddy"
+
+#: inc/gutenberg_block-list.php:74
+msgctxt "gutenberg_block"
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/gutenberg_block-list.php:75
+msgctxt "gutenberg_block"
+msgid "ReverbNation"
+msgstr "ReverbNation"
+
+#: inc/gutenberg_block-list.php:76
+msgctxt "gutenberg_block"
+msgid "Screencast"
+msgstr "Screencast"
+
+#: inc/gutenberg_block-list.php:77
+msgctxt "gutenberg_block"
+msgid "Scribd"
+msgstr "Scribd"
+
+#: inc/gutenberg_block-list.php:78
+msgctxt "gutenberg_block"
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: inc/gutenberg_block-list.php:79
+msgctxt "gutenberg_block"
+msgid "SmugMug"
+msgstr "SmugMug"
+
+#: inc/gutenberg_block-list.php:80
+msgctxt "gutenberg_block"
+msgid "Speaker"
+msgstr "Speaker"
+
+#: inc/gutenberg_block-list.php:81
+msgctxt "gutenberg_block"
+msgid "TED"
+msgstr "TED"
+
+#: inc/gutenberg_block-list.php:82
+msgctxt "gutenberg_block"
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/gutenberg_block-list.php:83
+msgctxt "gutenberg_block"
+msgid "VideoPress"
+msgstr "VideoPress"
+
+#: inc/gutenberg_block-list.php:84
+msgctxt "gutenberg_block"
+msgid "WordPress.tv"
+msgstr "WordPress.tv"
+
+#: inc/social-cta.php:65
+msgctxt "cta_twitter_follow"
+msgid "Follow"
+msgstr "フォローする"
+
+#: inc/social-list.php:11
+msgid "Amazon"
+msgstr "Amazon"
+
+#: inc/social-list.php:12
+msgid "CodePen"
+msgstr "CodePen"
+
+#: inc/social-list.php:14
+msgid "Feedly"
+msgstr "Feedly"
+
+#: inc/social-list.php:15
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/social-list.php:16
+msgid "Github"
+msgstr "Github"
+
+#: inc/social-list.php:19
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/social-list.php:22
+msgid "Meetup"
+msgstr "Meetup"
+
+#: inc/social-list.php:24
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/social-list.php:25
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: inc/social-list.php:28
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/social-list.php:29
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/social-list.php:32
+msgid "square"
+msgstr "四角"
+
+#: inc/social-list.php:33
+msgid "circle"
+msgstr "円"
+
+#: inc/social-list.php:34
+msgid "rectangle"
+msgstr "長方形"
+
+#: inc/social-list.php:35
+msgid "only icon"
+msgstr "アイコンのみ"
+
+#: inc/social-list.php:36
+msgid "hollow square"
+msgstr "中抜き四角"
+
+#: inc/social-list.php:37
+msgid "hollow circle"
+msgstr "中抜き円"
+
+#: inc/social-list.php:38
+msgid "hollow rectangle"
+msgstr "中抜き長方形"
+
+#: inc/social-list.php:41
+msgid "small"
+msgstr "小"
+
+#: inc/social-list.php:42
+msgid "medium"
+msgstr "中"
+
+#: inc/social-list.php:43
+msgid "large"
+msgstr "大"
+
+#: inc/social-list.php:44
+msgid "extra large"
+msgstr "特大"
+
+#: inc/social-output.php:112
+#, php-format
+msgid "Shared from &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo;よりシェア"
+
+#: inc/social-output.php:200
+msgctxt "hatebu"
+msgid "Hatena"
+msgstr "はてブ"
+
+#: inc/starter_content.php:60
+msgctxt "customizer"
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/starter_content.php:61
+msgid "You only live once. Might as well enjoy it."
+msgstr "人生は一度きり。楽しまなくちゃ！"
+
+#: inc/starter_content.php:66
+msgctxt "customizer"
+msgid "Services"
+msgstr "サービス"
+
+#: inc/starter_content.php:67
+msgid "I will skip work tomorrow."
+msgstr "明日はサボろう。"
+
+#: inc/starter_content.php:88
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: inc/widget-another-profile.php:18
+msgid "[Simple Days] Another Profile"
+msgstr "[Simple Days]もう一人のプロフィール"
+
+#: inc/widget-another-profile.php:19
+msgid "Support another profile for Widget"
+msgstr "もう一人のプロフィールに対応"
+
+#: inc/widget-another-profile.php:28 inc/widget-another-profile.php:115
+#: inc/widget-profile.php:28
+msgid "About me"
+msgstr "プロフィール"
+
+#: inc/widget-another-profile.php:153 inc/widget-another-profile.php:175
+msgid "No image selected"
+msgstr "画像が選択されていません"
+
+#: inc/widget-another-profile.php:159 inc/widget-another-profile.php:181
+msgid "Clear Image"
+msgstr "クリア"
+
+#: inc/widget-another-profile.php:160 inc/widget-another-profile.php:182
+msgid "Select Image"
+msgstr "画像を選択"
+
+#: inc/widget-another-profile.php:211 inc/widget-social-links.php:114
+#: inc/widget_postlist-popular.php:197 inc/widget_postlist-recent_thum.php:105
+#: inc/widget_postlist-recommend.php:94 inc/widget_postlist-update.php:145
+msgid "Display style"
+msgstr "表示スタイル"
+
+#: inc/widget-dd-archives.php:15
+msgid "[Simple Days] Archives"
+msgstr "[Simple Days] アーカイブ"
+
+#: inc/widget-dd-archives.php:29
+msgid "Select Month"
+msgstr "月を選択"
+
+#: inc/widget-dd-categories.php:15
+msgid "[Simple Days] Categories"
+msgstr "[Simple Days] カテゴリー"
+
+#: inc/widget-dd-categories.php:29
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+#: inc/widget-google_ad-inarticle.php:15
+msgid "[Simple Days] Google AdSense In-article"
+msgstr "[Simple Days] Googleアドセンス(記事内広告)"
+
+#: inc/widget-google_ad-inarticle.php:16
+msgid "Support a In-article ad unit for Google AdSense."
+msgstr "Googleアドセンスの記事内広告に対応しています。"
+
+#: inc/widget-google_ad-inarticle.php:110
+#: inc/widget-google_ad-inarticle.php:117 inc/widget-google_ad-infeed.php:117
+#: inc/widget-google_ad-infeed.php:127 inc/widget-google_ad-infeed.php:138
+#: inc/widget-google_ad-responsive.php:108
+msgid "If empty this slot, then take precedence from customizer setting."
+msgstr "未入力の場合はカスタマイザーの設定が優先されます。"
+
+#: inc/widget-google_ad-inarticle.php:114 inc/widget-google_ad-infeed.php:135
+msgctxt "google_ad"
+msgid "For AMP:"
+msgstr "AMPのための"
+
+#: inc/widget-google_ad-inarticle.php:118 inc/widget-google_ad-infeed.php:139
+msgid "Enter either ,"
+msgstr "どちらかが入力されていれば、"
+
+#: inc/widget-google_ad-inarticle.php:119 inc/widget-google_ad-infeed.php:140
+msgid "Enable AMP when switching AMP ad."
+msgstr "AMPページではAMP用の広告に切り替わります。"
+
+#: inc/widget-google_ad-inarticle.php:120 inc/widget-google_ad-infeed.php:141
+msgid "If both empty,"
+msgstr "どちらも未入力の場合"
+
+#: inc/widget-google_ad-inarticle.php:121 inc/widget-google_ad-infeed.php:142
+msgid "Enable AMP when none ad."
+msgstr "AMPページでは広告は非表示なります。"
+
+#: inc/widget-google_ad-infeed.php:15
+msgid "[Simple Days] Google AdSense In-feed"
+msgstr "[Simple Days] Googleアドセンス(インフィード)"
+
+#: inc/widget-google_ad-infeed.php:16
+msgid "Support a In-feed ad unit for Google AdSense."
+msgstr "Googleアドセンスのインフィード広告に対応しています。"
+
+#: inc/widget-google_ad-infeed.php:122 inc/widget-google_ad-infeed.php:132
+msgid "If empty this key, then take precedence from customizer setting."
+msgstr "未入力の場合はカスタマイザーの設定が優先されます。"
+
+#: inc/widget-google_ad-responsive.php:15
+msgid "[Simple Days] Google AdSense Responsive"
+msgstr "[Simple Days] Googleアドセンス(レスポンシブ)"
+
+#: inc/widget-google_ad-responsive.php:16
+msgid ""
+"Support a responsive ad unit for Google AdSense.Enable AMP when switching "
+"AMP ad."
+msgstr ""
+"Googleアドセンスのレスポンシブ広告に対応しています。AMPページではAMP用の広告"
+"に切り替わります。"
+
+#: inc/widget-google_ad-responsive.php:106
+msgid "Your ad unit's ID(data-ad-slot):"
+msgstr "広告 ID(data-ad-slot):"
+
+#: inc/widget-google_ad-responsive.php:113
+msgid "Format"
+msgstr "フォーマット"
+
+#: inc/widget-google_ad-responsive.php:115
+msgctxt "google_ad"
+msgid "Auto"
+msgstr "オート"
+
+#: inc/widget-google_ad-responsive.php:116
+msgctxt "google_ad"
+msgid "rectangle"
+msgstr "レクタングル"
+
+#: inc/widget-google_ad-responsive.php:117
+msgctxt "google_ad"
+msgid "horizontal"
+msgstr "横長"
+
+#: inc/widget-google_ad-responsive.php:118
+msgctxt "google_ad"
+msgid "vertical"
+msgstr "縦長"
+
+#: inc/widget-profile.php:17
+msgid "[Simple Days] Profile"
+msgstr "[Simple Days] プロフィール"
+
+#: inc/widget-profile.php:18
+msgid "Support profile for Widget"
+msgstr "プロフィールのウィジェットに対応"
+
+#: inc/widget-social-links.php:17
+msgid "[Simple Days] Social Links"
+msgstr "[Simple Days] SNSリンク"
+
+#: inc/widget-social-links.php:18
+msgid "Support Social Links for Widget"
+msgstr "SNSリンクのウィジェットに対応"
+
+#: inc/widget-toc.php:15
+msgid "[Simple Days] TOC"
+msgstr "[Simple Days] 目次"
+
+#: inc/widget-toc.php:16
+msgid "Support table of contents for Widget"
+msgstr "ウィジェットに目次を表示する"
+
+#: inc/widget_postlist-popular.php:15
+msgid "[Simple Days] Popular Posts"
+msgstr "[Simple Days]人気記事"
+
+#: inc/widget_postlist-popular.php:16
+msgid "Support popular posts for Widget"
+msgstr "人気記事のウィジェットに対応"
+
+#: inc/widget_postlist-popular.php:36
+msgid "Popular Posts"
+msgstr "人気記事"
+
+#: inc/widget_postlist-popular.php:40
+msgid "Yearly Popular Posts"
+msgstr "年間人気記事"
+
+#: inc/widget_postlist-popular.php:44
+msgid "Monthly Popular Posts"
+msgstr "月間人気記事"
+
+#: inc/widget_postlist-popular.php:48
+msgid "Weekly Popular Posts"
+msgstr "週間人気記事"
+
+#: inc/widget_postlist-popular.php:52
+msgid "Daily Popular Posts"
+msgstr "本日の人気記事"
+
+#: inc/widget_postlist-popular.php:174
+msgid "the time period"
+msgstr "集計期間"
+
+#: inc/widget_postlist-popular.php:177
+msgid "All"
+msgstr "全て"
+
+#: inc/widget_postlist-popular.php:180
+msgid "Yearly"
+msgstr "年間"
+
+#: inc/widget_postlist-popular.php:183
+msgid "Monthly"
+msgstr "月間"
+
+#: inc/widget_postlist-popular.php:186
+msgid "Weekly"
+msgstr "週間"
+
+#: inc/widget_postlist-popular.php:189
+msgid "Daily"
+msgstr "日間"
+
+#: inc/widget_postlist-popular.php:192
+msgid "Display priorities"
+msgstr "表示する順位"
+
+#: inc/widget_postlist-popular.php:200 inc/widget_postlist-recent_thum.php:108
+#: inc/widget_postlist-recommend.php:97 inc/widget_postlist-update.php:148
+msgid "List"
+msgstr "リスト"
+
+#: inc/widget_postlist-popular.php:206 inc/widget_postlist-recent_thum.php:114
+#: inc/widget_postlist-recommend.php:103 inc/widget_postlist-update.php:154
+msgid "List &#43; Thumbnail"
+msgstr "リスト &#43; サムネイル"
+
+#: inc/widget_postlist-popular.php:209 inc/widget_postlist-recent_thum.php:117
+#: inc/widget_postlist-update.php:157
+msgid " Disappear when you type category id."
+msgstr "表示したくないカテゴリーIDを入力してください。"
+
+#: inc/widget_postlist-popular.php:213 inc/widget_postlist-recent_thum.php:121
+#: inc/widget_postlist-update.php:161
+msgid " Disappear when you type post id."
+msgstr "表示したくない投稿IDを入力してください。"
+
+#: inc/widget_postlist-popular.php:218 inc/widget_postlist-recent_thum.php:126
+#: inc/widget_postlist-update.php:166
+msgid "include page"
+msgstr "固定ページを含む"
+
+#: inc/widget_postlist-popular.php:222
+msgid "Enable archive ranking in archive"
+msgstr "アーカイブページではアーカイブページランキングを有効にする"
+
+#: inc/widget_postlist-recent_thum.php:15
+msgid "[Simple Days] Recent Posts with thumbnail"
+msgstr "[Simple Days] サムネイル付き最近の投稿"
+
+#: inc/widget_postlist-recent_thum.php:16
+msgid "Support Recent Posts with thumbnail for Widget"
+msgstr "サムネイル付き最近の投稿ウィジェットに対応"
+
+#: inc/widget_postlist-recent_thum.php:22
+msgid "Recent Posts"
+msgstr "最近の投稿"
+
+#: inc/widget_postlist-recent_thum.php:100 inc/widget_postlist-update.php:140
+msgid "Number of shown post"
+msgstr "表示数"
+
+#: inc/widget_postlist-recommend.php:15
+msgid "[Simple Days] Recommended Posts with thumbnail"
+msgstr "[Simple Days] サムネイル付きおすすめの投稿"
+
+#: inc/widget_postlist-recommend.php:16
+msgid "Support Recommended Posts with thumbnail for Widget"
+msgstr "サムネイル付きおすすめの投稿ウィジェットに対応"
+
+#: inc/widget_postlist-recommend.php:22
+msgid "Recommended Posts"
+msgstr "おすすめの投稿"
+
+#: inc/widget_postlist-recommend.php:88
+msgid " Appear when you type post id."
+msgstr "表示したい投稿IDを入力してください。"
+
+#: inc/widget_postlist-update.php:15
+msgid "[Simple Days] Update Posts with thumbnail"
+msgstr "[Simple Days] サムネイル付き更新された投稿"
+
+#: inc/widget_postlist-update.php:16
+msgid "Support Update Posts with thumbnail for Widget"
+msgstr "サムネイル付き更新された投稿ウィジェットに対応"
+
+#: inc/widget_postlist-update.php:22
+msgid "Update Posts"
+msgstr "更新された投稿"
+
+#: inc/widgets.php:5
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: inc/widgets.php:7
+msgid "Add widgets here to appear in your sidebar."
+msgstr "ここにウィジェットを追加してサイドバーに表示します。"
+
+#: inc/widgets.php:14
+msgid "Content Bottom Left"
+msgstr "フッター(左側)"
+
+#: inc/widgets.php:16
+msgid "Add widgets here to appear in bottom footer(left side).."
+msgstr "ここにウィジェットを追加してフッター(左側)に表示します。"
+
+#: inc/widgets.php:23
+msgid "Content Bottom Center"
+msgstr "フッター(中央)"
+
+#: inc/widgets.php:25
+msgid "Add widgets here to appear in bottom footer(center)."
+msgstr "ここにウィジェットを追加してフッター(中央)に表示します。"
+
+#: inc/widgets.php:32
+msgid "Content Bottom Right"
+msgstr "フッター(右側)"
+
+#: inc/widgets.php:34
+msgid "Add widgets here to appear in bottom footer(right side)"
+msgstr "ここにウィジェットを追加してフッター(右側)に表示します。"
+
+#: inc/widgets.php:41
+msgid "On the pagination"
+msgstr "ページネーションの上"
+
+#: inc/widgets.php:43
+msgid "Add widgets here to appear on the pagination"
+msgstr "ここにウィジェットを追加してページネーションの上に表示します。"
+
+#: inc/widgets.php:50
+msgid "Under the post"
+msgstr "投稿の下"
+
+#: inc/widgets.php:52
+msgid "Add widgets under in the contents of the post"
+msgstr "ここにウィジェットを追加して投稿記事の下に表示します。"
+
+#: inc/widgets.php:59
+msgid "Under the page"
+msgstr "固定ページの下"
+
+#: inc/widgets.php:61
+msgid "Add widgets under in the contents of the page"
+msgstr "ここにウィジェットを追加して固定ページ記事の下に表示します。"
+
+#: inc/widgets.php:73
+msgid "Over Header Left"
+msgstr "ヘッダー上(左側)"
+
+#: inc/widgets.php:75
+msgid "Add widgets here to over header left."
+msgstr "ここにウィジェットを追加してヘッダー上(左側)に表示します。"
+
+#: inc/widgets.php:83
+msgid "Over Header Right"
+msgstr "ヘッダー上(右側)"
+
+#: inc/widgets.php:85
+msgid "Add widgets here to over header right."
+msgstr "ここにウィジェットを追加してヘッダー上(右側)に表示します。"
+
+#: inc/widgets.php:93
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/widgets.php:95
+msgid "Add widgets here to header."
+msgstr "ここにウィジェットを追加してヘッダーに表示します。"
+
+#: inc/widgets.php:109
+msgid "Index List"
+msgstr "インデックスリスト"
+
+#: inc/widgets.php:111
+msgid "Add widgets here to index list insert."
+msgstr "ここにウィジェットを追加してインデックスリストの中に表示します。"
+
+#: inc/widgets.php:111
+msgid "change the number of insert widget area."
+msgstr "挿入順の指定はこちら。"
+
+#: inc/widgets.php:118
+msgid "Before the first H2 of the post"
+msgstr "投稿内1番目のH2前に"
+
+#: inc/widgets.php:120
+msgid "Add widgets before the first h2 in the contents of the post"
+msgstr "投稿内1番目のH2見出し手前にウィジェットを追加します。"
+
+#: inc/widgets.php:128
+msgid "Before the second H2 of the post"
+msgstr "投稿内2番目のH2前に"
+
+#: inc/widgets.php:130
+msgid "Add widgets before the second h2 in the contents of the post"
+msgstr "投稿内2番目のH2見出し手前にウィジェットを追加します。"
+
+#: inc/widgets.php:138
+msgid "Before the third H2 of the post"
+msgstr "投稿内3番目のH2前に"
+
+#: inc/widgets.php:140
+msgid "Add widgets before the third h2 in the contents of the post"
+msgstr "投稿内3番目のH2見出し手前にウィジェットを追加します。"
+
+#: inc/widgets.php:147
+msgid "Before the first H2 of the page"
+msgstr "固定ページ内1番目のH2前に"
+
+#: inc/widgets.php:149
+msgid "Add widgets before the first h2 in the contents of the page"
+msgstr "固定ページ内1番目のH2見出し手前にウィジェットを追加します。"
+
+#: inc/widgets.php:157
+msgid "Before the second H2 of the page"
+msgstr "固定ページ内2番目のH2前に"
+
+#: inc/widgets.php:159
+msgid "Add widgets before the second h2 in the contents of the page"
+msgstr "固定ページ内2番目のH2見出し手前にウィジェットを追加します。"
+
+#: inc/widgets.php:167
+msgid "Before the third H2 of the page"
+msgstr "固定ページ内3番目のH2前に"
+
+#: inc/widgets.php:169
+msgid "Add widgets before the third h2 in the contents of the page"
+msgstr "固定ページ内3番目のH2見出し手前にウィジェットを追加します。"
+
+#: page.php:58 single.php:49
+msgid "Edit this post"
+msgstr "この記事を編集する"
+
+#: page.php:130 single.php:119
+msgid "Pages:"
+msgstr "ページ:"
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: single.php:184
+msgid "Previous Post"
+msgstr "前の記事"
+
+#: single.php:190
+msgid "Next Post"
+msgstr "次の記事"
+
+#: template-parts/content-none.php:15
+msgid "Ready to publish your first post?"
+msgstr "最初の投稿をする準備ができましたか ?"
+
+#: template-parts/content-none.php:17
+msgid "Get started here."
+msgstr "ここからスタートしてください。"
+
+#: template-parts/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検"
+"索してみてください。"
+
+#: template-parts/content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#. Theme Name of the plugin/theme
+msgid "Simple Days"
+msgstr "Simple Days"
+
+#. Theme URI of the plugin/theme
+msgid "https://back2nature.jp/themes/simpledays"
+msgstr "https://back2nature.jp/themes/simpledays"
+
+#. Description of the plugin/theme
+msgid ""
+"Simple Days is a free responsive WordPress Blog theme.Visitors arrive by "
+"smartphone, tablet, laptop, or desktop computer.I designed it using a mobile-"
+"first approach.It is thus possible to improve usability of the smartphone."
+"And of course, other devices is too.Moreover,you can also edit the design "
+"using its customizer.Google Fonts is 800 over.Right or Left or No sidebar."
+"Social Link.optimized for SEO, utilizing Schema.org microdata.And Gutenberg "
+"ready.Translation ready and currently translated in Japanese(日本語).Let's "
+"try it."
+msgstr ""
+"Simple Daysは無料のレスポンシブWordPressブログテーマです。訪問者は、スマート"
+"フォン、タブレット、ラップトップ、またはデスクトップコンピュータを使っていま"
+"す。私はモバイルファーストを第一にデザインしました。こうしてスマートフォンの"
+"ユーザビリティを向上させることができます。もちろん、他のデバイスも。さらにカ"
+"スタマイザーでデザインを変更可能です。Googleフォントは800種類以上。右、左のサ"
+"イドバーか無し。SNSのリンク。Schema.orgマイクロデータを利用してSEOに最適化済"
+"み。Gutenbergに対応。現在日本語の翻訳に対応しています。是非試してみてくださ"
+"い。"
+
+#. Author of the plugin/theme
+msgid "YAHMAN"
+msgstr "やーまん"
+
+#. Author URI of the plugin/theme
+msgid "https://back2nature.jp/"
+msgstr "https://back2nature.jp/"
+
+#~ msgid "Header color"
+#~ msgstr "ヘッダーの色"
+
+#~ msgid "Footer Widget area color"
+#~ msgstr "フッターウィジェットエリアの色"
+
+#~ msgid "Alert Box Text Color"
+#~ msgstr "アラートボックスの"
+
+#~ msgid "Icon List"
+#~ msgstr "アイコンリスト"
+
+#~ msgid "Header Widget"
+#~ msgstr "ヘッダーウィジェット"
+
+#~ msgid "Simple Days's careful selection of icon to make it smoothly."
+#~ msgstr "Simple Daysは動作を軽くするために"
+
+#~ msgid "Secondary Menu"
+#~ msgstr "フッターメニュー"
+
+#~ msgid "Reorder header"
+#~ msgstr "ヘッダーの並び替え"
+
+#~ msgid "Reorder footer"
+#~ msgstr "フッターの並び替え"
+
+#~ msgid "Color specification"
+#~ msgstr "色の指定"
+
+#~ msgid "Hover color specification"
+#~ msgstr "ホバー色の指定"
+
+#~ msgid "Dark color"
+#~ msgstr "ダークカラー"
+
+#~ msgid "Don't  change hover color when dark color"
+#~ msgstr "ダークカラーの時はホバーしても着色しない"
+
+#~ msgctxt "gutenberg_block"
+#~ msgid "Subheading"
+#~ msgstr "小見出し"
+
+#~ msgctxt "gutenberg_block"
+#~ msgid "Reverbnation"
+#~ msgstr "Reverbnation"
+
+#~ msgctxt "gutenberg_block"
+#~ msgid "Smugmug"
+#~ msgstr "Smugmug"
+
+#~ msgctxt "gutenberg_block"
+#~ msgid "WordPress-tv"
+#~ msgstr "WordPress-tv"
+
+#~ msgid "No Related Page."
+#~ msgstr "関連ページはありません"
+
+#~ msgid "No Related Post."
+#~ msgstr "関連記事はありません"
+
+#~ msgid "https://back2nature.jp/simpledays/"
+#~ msgstr "https://back2nature.jp/simpledays/"
+
+#~ msgid "After post"
+#~ msgstr "記事の後"
+
+#~ msgid "Count the Posts"
+#~ msgstr "記事数"
+
+#~ msgid "For AMP:"
+#~ msgstr "AMPのための"
+
+#~ msgid "Add widgets here to appear in index list."
+#~ msgstr "ここにウィジェットを追加してインデックスリストの中に表示します。"
+
+#~ msgid "For AMP"
+#~ msgstr "AMPのための"
+
+#~ msgid ""
+#~ "Support a In-feed ad unit for Google AdSense.Enable AMP when switching "
+#~ "AMP ad."
+#~ msgstr ""
+#~ "Googleアドセンスのインフィード広告に対応しています。AMPページではAMP用レス"
+#~ "ポンシブの広告に切り替わります。(要AMP用レスポンシブdata-ad-slot)"
+
+#~ msgid "[Simple Days] Google AdSense Infeed"
+#~ msgstr "[Simple Days] Googleアドセンス(インフィード)"
+
+#~ msgid ""
+#~ "Support a infeed ad unit for Google AdSense.Enable AMP when switching AMP "
+#~ "ad."
+#~ msgstr ""
+#~ "Googleアドセンスのインフィード広告に対応しています。AMPページではAMP用レス"
+#~ "ポンシブの広告に切り替わります。(要AMP用レスポンシブdata-ad-slot)"
+
+#~ msgid "Add Widgets Google AdSense"
+#~ msgstr "Googleアドセンス のウィジェットを追加する"
+
+#~ msgid ""
+#~ "If used this slot, then this settings take precedence from customizer."
+#~ msgstr "ここを入力すると、この設定がカスタマイザよりも優先されます。"
+
+#~ msgid "[Simple Days] Google AdSense Link"
+#~ msgstr "[Simple Days] Google アドセンスリンク"
+
+#~ msgid "This option does not apply to %s."
+#~ msgstr "このオプションは、%sには適用されません。"
+
+#~ msgid "Body font"
+#~ msgstr "全体のフォント"
+
+#~ msgid "Headings font"
+#~ msgstr "見出しのフォント"
+
+#~ msgid "Site title font"
+#~ msgstr "サイトタイトルのフォント"
+
+#~ msgid "(Web Safe Fonts)"
+#~ msgstr "(Webセーフフォント)"
+
+#~ msgid "(Google Fonts)"
+#~ msgstr "(Googleフォント)"
+
+#~ msgid "(Local Fonts Japanese)"
+#~ msgstr "(日本語ローカルフォント)"
+
+#~ msgid "(Google Fonts Japanese)"
+#~ msgstr "(日本語Googleフォント)"
+
+#~ msgid "Body font(Web Safe Fonts)"
+#~ msgstr "全体のフォント(Webセーフフォント)"
+
+#~ msgid "Headings font(Web Safe Fonts)"
+#~ msgstr "見出しのフォント(Webセーフフォント)"
+
+#~ msgid "Body font(Google Fonts)"
+#~ msgstr "全体のフォント(Google Fonts)"
+
+#~ msgid "Body font(Local Fonts)"
+#~ msgstr "全体のフォント(ローカルフォント)"
+
+#~ msgid "Headings font(Google Fonts)"
+#~ msgstr "見出しのフォント(Google Fonts)"
+
+#~ msgid "Headings font(Local Fonts)"
+#~ msgstr "見出しのフォント(ローカルフォント)"
+
+#~ msgid "Body font(Local Fonts Japanese)"
+#~ msgstr "全体のフォント(日本語ローカルフォント)"
+
+#~ msgid "Headings font(Local Fonts Japanese)"
+#~ msgstr "見出しのフォント(日本語ローカルフォント)"
+
+#~ msgid "Body font(Google Fonts Japanese)"
+#~ msgstr "全体のフォント(日本語Google Fonts)"
+
+#~ msgid "Headings font(Google Fonts Japanese)"
+#~ msgstr "見出しのフォント(日本語Google Fonts)"
+
+#~ msgid "Recommend Posts with thumbnail widget"
+#~ msgstr "サムネイル付きお勧め投稿ウィジェット"
+
+#~ msgid "[Simple Days] Recommend Posts with thumbnail"
+#~ msgstr "[Simple Days] Recommend Posts with thumbnail"
+
+#~ msgid "Support Recommend Posts with thumbnail for Widget"
+#~ msgstr "サムネイル付きお勧めの投稿ウィジェットに対応"
+
+#~ msgid "Recommend Posts"
+#~ msgstr "オススメの投稿"
+
+#~ msgid "Date and category disappears when you select hide."
+#~ msgstr "非表示を選択すると日付とカテゴリーも非表示になります"
+
+#~ msgid "Y"
+#~ msgstr "Y"
+
+#~ msgid "Copyright"
+#~ msgstr "著作権表記"
+
+#~ msgid "Author"
+#~ msgstr "投稿者"
+
+#~ msgid "Date"
+#~ msgstr "日付"
+
+#~ msgid "Hide category"
+#~ msgstr "カテゴリーを非表示"
+
+#~ msgid "Install Plugins"
+#~ msgstr "プラグインのインストール"
+
+#~ msgid ""
+#~ "Simple Days is a free responsive WordPress Blog theme.Visitors arrive by "
+#~ "smartphone, tablet, laptop, or desktop computer.I designed it using a "
+#~ "mobile-first approach.It is thus possible to improve usability of the "
+#~ "smartphone.And of course, other devices is too.Moreover,you can also edit "
+#~ "the design using its customizer.Google Fonts is 800 over.Right or Left or "
+#~ "No sidebar.Social Link.optimized for SEO, utilizing Schema.org microdata."
+#~ "Translation Ready and currently translated in Japanese(日本語).Let's try "
+#~ "it."
+#~ msgstr ""
+#~ "Simple Daysは無料のレスポンシブWordPressブログテーマです。訪問者は、スマー"
+#~ "トフォン、タブレット、ラップトップ、またはデスクトップコンピュータを使って"
+#~ "います。私はモバイルファーストを第一にデザインしました。こうしてスマート"
+#~ "フォンのユーザビリティを向上させることができます。もちろん、他のデバイス"
+#~ "も。さらにカスタマイザーでデザインを変更可能です。Googleフォントは800種類"
+#~ "以上。右、左のサイドバーか無し。SNSのリンク。Schema.orgマイクロデータを利"
+#~ "用してSEOに最適化済み。現在日本語の翻訳に対応しています。是非試してみてく"
+#~ "ださい。"
+
+#~ msgid "Install Word Balloon Plugins"
+#~ msgstr "Word Balloonのインストール"
+
+#~ msgid "How to show"
+#~ msgstr "表示方法"
+
+#~ msgctxt "hatebu"
+#~ msgid "Hatena Bookmark"
+#~ msgstr "はてブ"
+
+#~ msgid "BOX (success)"
+#~ msgstr "BOX (success)"
+
+#~ msgid "BOX (alert)"
+#~ msgstr "BOX (alert)"
+
+#~ msgid "BOX (danger)"
+#~ msgstr "BOX (danger)"
+
+#~ msgid "Social Links Widget"
+#~ msgstr "SNSリンクウイジェット"
+
+#~ msgid "If you leave this box blank,nothing is displayed."
+#~ msgstr "空白にすれば何も表示されません。"
+
+#~ msgid "Support Font Awesome4 only."
+#~ msgstr "Font Awesome4のみ対応"
+
+#~ msgid "Follow us on social media"
+#~ msgstr "是非フォローして下さい。"
+
+#~ msgid "Follow message"
+#~ msgstr "フォローの呼びかけ"
+
+#~ msgid ""
+#~ "Simple Days is a free responsive WordPress Blog theme.Visitors arrive by "
+#~ "smartphone, tablet, laptop, or desktop computer.I designed it using a "
+#~ "mobile-first approach.It is thus possible to improve usability of the "
+#~ "smartphone.And of course, other devices is too.Moreover,you can also edit "
+#~ "the design using its customizer.Google Fonts is 800 over.optimized for "
+#~ "SEO, utilizing Schema.org microdata.Translation Ready and currently "
+#~ "translated in Japanese(日本語).Let's try it."
+#~ msgstr ""
+#~ "Simple Daysは無料のレスポンシブWordPressブログテーマです。訪問者は、スマー"
+#~ "トフォン、タブレット、ラップトップ、またはデスクトップコンピュータを使って"
+#~ "います。私はモバイルファーストを第一にデザインしました。こうしてスマート"
+#~ "フォンのユーザビリティを向上させることができます。もちろん、他のデバイス"
+#~ "も。さらにカスタマイザーでデザインを変更可能です。Googleフォントは800種類"
+#~ "以上。Schema.orgマイクロデータを利用してSEOに最適化済み。現在日本語の翻訳"
+#~ "に対応しています。是非試してみてください。"
+
+#~ msgid ""
+#~ "Simple Days is a free responsive WordPress Blog theme.Visitors arrive by "
+#~ "smartphone, tablet, laptop, or desktop computer.I designed it using a "
+#~ "mobile-first approach.It is thus possible to improve usability of the "
+#~ "smartphone.And of course, other devices is too.Moreover,you can also edit "
+#~ "the design using its customizer.optimized for SEO, utilizing Schema.org "
+#~ "microdata.Translation Ready and currently translated in Japanese(日本語)."
+#~ "Let's try it."
+#~ msgstr ""
+#~ "Simple Daysは無料のレスポンシブWordPressブログテーマです。訪問者は、スマー"
+#~ "トフォン、タブレット、ラップトップ、またはデスクトップコンピュータを使って"
+#~ "います。私はモバイルファーストを第一にデザインしました。こうしてスマート"
+#~ "フォンのユーザビリティを向上させることができます。もちろん、他のデバイス"
+#~ "も。さらにカスタマイザーでデザインを変更可能です。Schema.orgマイクロデータ"
+#~ "を利用してSEOに最適化済み。現在日本語の翻訳に対応しています。是非試してみ"
+#~ "てください。"
+
+#~ msgid ""
+#~ "Simple Days is a free responsive WordPress Blog theme.Visitors arrive by "
+#~ "smartphone, tablet, laptop, or desktop computer.I designed it using a "
+#~ "mobile-first approach.It is thus possible to improve usability of the "
+#~ "smartphone.And of course, other devices is too.Moreover,you can also edit "
+#~ "the design using its customizer.Translation Ready and currently "
+#~ "translated in Japanese(日本語).Let's try it."
+#~ msgstr ""
+#~ "Simple Daysは無料のレスポンシブWordPressブログテーマです。訪問者は、スマー"
+#~ "トフォン、タブレット、ラップトップ、またはデスクトップコンピュータを使って"
+#~ "います。私はモバイルファーストを第一にデザインしました。こうしてスマート"
+#~ "フォンのユーザビリティを向上させることができます。もちろん、他のデバイス"
+#~ "も。さらにカスタマイザーでデザインを変更可能です。現在日本語の翻訳に対応し"
+#~ "ています。是非試してみてください。"
+
+#~ msgid "character"
+#~ msgstr "文字"
+
+#~ msgid ""
+#~ "Simple Days is a free responsive WordPress Blog theme.Visitors arrive by "
+#~ "smartphone, tablet, laptop, or desktop computer.I designed it using a "
+#~ "mobile-first approach.And try to make it as simple as possible.It is thus "
+#~ "possible to improve usability of the smartphone.And of course, other "
+#~ "devices is too.Translation Ready and currently translated in Japanese(日本"
+#~ "語).Let's try it."
+#~ msgstr ""
+#~ "Simple Daysは無料のレスポンシブWordPressブログテーマです。訪問者は、スマー"
+#~ "トフォン、タブレット、ラップトップ、またはデスクトップコンピュータを使って"
+#~ "います。私はモバイルファーストを第一にデザインしました。そしてできるだけシ"
+#~ "ンプルにしようとしています。こうしてスマートフォンのユーザビリティを向上さ"
+#~ "せることができます。もちろん、他のデバイスも。現在日本語の翻訳に対応してい"
+#~ "ます。試してみてください。"
+
+#~ msgctxt "post_sortable"
+#~ msgid "Author profile"
+#~ msgstr "投稿者プロフィール"
+
+#~ msgid "Single Post"
+#~ msgstr "投稿記事のページ"
+
+#~ msgid "The plugin [pages-with-category-and-tag] is needed"
+#~ msgstr "プラグイン[pages-with-category-and-tag]が必要です。"
+
+#~ msgid "Ranking"
+#~ msgstr "ランキング"
+
+#~ msgid "Monthly Ranking"
+#~ msgstr "月間ランキング"
+
+#~ msgid "Weekly Ranking"
+#~ msgstr "週間ランキング"
+
+#~ msgid "Daily Ranking"
+#~ msgstr "本日のランキング"
+
+#~ msgid "Popular Posts display rank number"
+#~ msgstr "人気記事の表示順位"
+
+#~ msgid "Ranking headings"
+#~ msgstr "ランキングの見出し"
+
+#~ msgid "Drop Down Archives without JavaScript"
+#~ msgstr "JavaScriptを使用しないドロップダウンアーカイブ"
+
+#~ msgid "Drop Down Categories without JavaScript"
+#~ msgstr "JavaScriptを使用しないドロップダウンカテゴリー"
+
+#~ msgid "Blog card(local site)"
+#~ msgstr "ブログカード(自サイト)"
+
+#~ msgid "use CDN FontAwesome"
+#~ msgstr "CDN版FontAwesomeを使用する"
+
+#~ msgid "Last Updated "
+#~ msgstr "最終更新日"
+
+#~ msgid "call-to-action under the post"
+#~ msgstr "投稿記事の下にコールトゥアクションを表示する"
+
+#~ msgid "Add widgets here to appear in under the post"
+#~ msgstr "ここにウィジェットを追加して投稿記事の下に表示します。"
+
+#~ msgid "Add widgets here to appear in under the page"
+#~ msgstr "ここにウィジェットを追加して投稿の下に表示します。"
+
+#~ msgid "Add widgets here to appear in before first H2 of contents"
+#~ msgstr "本文中1番目のH2見出し手前にウィジェットを追加します。"
+
+#~ msgid "Before H2 of the first"
+#~ msgstr "1番目のH2前に"
+
+#~ msgid "Before H2 of the second"
+#~ msgstr "2番目のH2前に"
+
+#~ msgid "Add widgets here to appear in before second H2 of contents"
+#~ msgstr "本文中2番目のH2見出し手前にウィジェットを追加します。"
+
+#~ msgid "Before H2 of the third"
+#~ msgstr "3番目のH2前に"
+
+#~ msgid "Add widgets here to appear in before third H2 of contents"
+#~ msgstr "本文中3番目のH2見出し手前にウィジェットを追加します。"
+
+#~ msgid "Use Categories with Page"
+#~ msgstr "固定ページにカテゴリーを使用する"
+
+#~ msgid "Use Tags with Page"
+#~ msgstr "固定ページにタグを使用する"
+
+#~ msgid "how about ad area?"
+#~ msgstr "広告エリア等いかがでしょうか？"
+
+#~ msgid "example&#58;"
+#~ msgstr "例&#58;"
+
+#~ msgid "Add Widgets Social Links"
+#~ msgstr "ウィジェットにSNSのリンクを追加する"
+
+#~ msgid "Blog Description"
+#~ msgstr "サイトの紹介文"
+
+#~ msgid "URL for #%s Social Icon"
+#~ msgstr "#%sのURL"
+
+#~ msgid "top page date display format"
+#~ msgstr "トップページの日付表示"
+
+#~ msgid "top page date display shape"
+#~ msgstr "トップページの日付表示"
+
+#~ msgid "such as a File"
+#~ msgstr "ファイル"
+
+#~ msgid "Blog card"
+#~ msgstr "ブログカード"
+
+#~ msgid "view"
+#~ msgstr "表示"
+
+#~ msgid "Display the site map at the page slug &quot;sitemap&quot;"
+#~ msgstr "サイトマップを固定ページのスラッグ&quot;sitemap&quot;に表示します。"
+
+#~ msgid "Hatenabookmark"
+#~ msgstr "はてなブックマーク"
+
+#~ msgid "Support Font Awesome5 only."
+#~ msgstr "Font Awesome5のみ対応。"
+
+#~ msgid "Please select a images."
+#~ msgstr "画像を選択してください。"
+
+#~ msgctxt "comments title"
+#~ msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "&ldquo;%2$s&rdquo;への%1$s件の返信"
+
+#~ msgctxt "comments title"
+#~ msgid "One Reply to &ldquo;%s&rdquo;"
+#~ msgstr "&ldquo;%s&rdquo;への1件の返信"
+
+#~ msgid "Font Awesome5 only.default&#58; fas fa-home"
+#~ msgstr "Font Awesome5のみ対応。通常&#58; fas fa-home"
+
+#~ msgid "Font Awesome5 only.default&#58; far fa-folder-open"
+#~ msgstr "Font Awesome5のみ対応。通常&#58; far fa-folder-open"
+
+#~ msgid "Font Awesome5 only.default&#58; far fa-file-alt"
+#~ msgstr "Font Awesome5のみ対応。通常&#58; far fa-file-alt"
+
+#~ msgid "example:UA-XXXXXX-Y"
+#~ msgstr "例:UA-XXXXXX-Y"
+
+#~ msgid "default&#58;&#35;fff"
+#~ msgstr "通常&#58;&#35;fff"
+
+#~ msgid "default&#58;&#35;07a"
+#~ msgstr "初期設定&#58;&#35;07a"
+
+#~ msgid "default&#58;&#35;d42"
+#~ msgstr "初期設定&#58;&#35;d42"
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "あなたのコメントは現在承認待ちです。"
+
+#~ msgid "Previous"
+#~ msgstr "前"
+
+#~ msgid "Next"
+#~ msgstr "次"
+
+#~ msgid ""
+#~ "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+#~ msgstr ""
+#~ "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</"
+#~ "a>してください。"
+
+#~ msgid "Add a menu"
+#~ msgstr "メニューの追加"
+
+#~ msgid ""
+#~ "Simple Days is a free responsive WordPress Blog theme.Visitors arrive by "
+#~ "smartphone, tablet, laptop, or desktop computer.I designed it using a "
+#~ "mobile-first approach.And try to make it as simple as possible.It is thus "
+#~ "possible to improve usability of the smartphone.And of course, other "
+#~ "devices is too.Let's try it."
+#~ msgstr ""
+#~ "Simple Daysは無料のレスポンシブWordPressブログテーマです。訪問者は、スマー"
+#~ "トフォン、タブレット、ラップトップ、またはデスクトップコンピュータを使って"
+#~ "います。私はモバイルファーストを第一にデザインしました。そしてできるだけシ"
+#~ "ンプルにしようとしています。こうしてスマートフォンのユーザビリティを向上さ"
+#~ "せることができます。もちろん、他のデバイスも。試してみてください。"
+
+#~ msgid "Single Page"
+#~ msgstr "記事のページ"
+
+#~ msgid "Share"
+#~ msgstr "シェア"
+
+#~ msgid "change the number of related posts displayed"
+#~ msgstr "関連記事の表示数を変更できます。"
+
+#~ msgid "Hatena"
+#~ msgstr "はてなブックマーク"
+
+#~ msgid "Author profile"
+#~ msgstr "記事の投稿者"
+
+#~ msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+#~ msgstr "<span class=\"screen-reader-text\">\"%s\"</span>の続きを読む"
+
+#~ msgid "Social Icon #"
+#~ msgstr "SNSのアイコン #"
+
+#~ msgid "Facebook URL"
+#~ msgstr "FacebookのURL"
+
+#~ msgid "Twitter URL"
+#~ msgstr "TwitterのURL"
+
+#~ msgid "LinkedIn URL"
+#~ msgstr "LinkedInのURL"
+
+#~ msgid "YouTube URL"
+#~ msgstr "YouTubeのURL"
+
+#~ msgid "Instagram URL"
+#~ msgstr "InstagramのURL"
+
+#~ msgid "Google+ URL"
+#~ msgstr "Google+のURL"
+
+#~ msgid "Pinterest URL"
+#~ msgstr "PinterestのURL"
+
+#~ msgid "Tumblr URL"
+#~ msgstr "TumblrのURL"
+
+#~ msgid "Flickr URL"
+#~ msgstr "FlickrのURL"
+
+#~ msgid "Simple Days Options"
+#~ msgstr "Simple Daysのオプション"
+
+#~ msgid "Love Simple."
+#~ msgstr "シンプルな毎日を"
+
+#~ msgid "1Search query for: %s"
+#~ msgstr "ああああ%s"
+
+#~ msgid "Search query for: "
+#~ msgstr "検索結果"
+
+#~ msgid "Green Day"
+#~ msgstr "Green Day"
+
+#~ msgid "Love Green."
+#~ msgstr "緑が好き"
+
+#~ msgid "Add widgets here to appear in bottom footer(right side)."
+#~ msgstr "ここにウィジェットを追加してフッター(右側)に表示します。"

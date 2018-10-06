@@ -1,0 +1,86 @@
+# Translation of Themes - ARzine in Chinese (China)
+# This file is distributed under the same license as the Themes - ARzine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-03 07:44:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - ARzine\n"
+
+#. Description of the plugin/theme
+msgid "Arzine is a responsive, multi-purpose WordPress theme. It’s flexible and suitable for agencies, blogs, business, corporate or portfolios. Customization is easy and straight-forward, with options provided that allow you to setup your site to perfectly fit your desired online presence. Arzine offers a beautifully designed masonry blog layout. For more details, visit this link https://wordpress.org/themes/busiprof/. We hope you will find the Arzine theme useful."
+msgstr "Arzine是一个响应式，多功能的WordPress主题。灵活的它，适合显示机构、博客、商业、公司或作品集。定制是容易和直接的，提供的选项能让您设置您的站点，以完全符合您所期望的在线存在。Arzine提供设计精美的砖石式博客布局。有关更多详细信息，请访问此链接https://wordpress.org/themes/busiprof/。我们希望您会发现Arzine主题有用。"
+
+#. Theme Name of the plugin/theme
+msgid "ARzine"
+msgstr "ARzine"
+
+#: tag.php:14
+msgid "Tag  Archive "
+msgstr "标签归档"
+
+#: single.php:50
+msgid "Leave a comment"
+msgstr "留下评论"
+
+#: search.php:28
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: category.php:14
+msgid "Category Archive "
+msgstr "分类归档"
+
+#: archive.php:29
+msgid "Blog Archive "
+msgstr "博客归档"
+
+#: archive.php:25
+msgid "Yearly Archive "
+msgstr "年度归档"
+
+#: archive.php:21
+msgid "Monthly Archive "
+msgstr "月度归档"
+
+#: archive.php:17
+msgid "Daily Archive "
+msgstr "按日归档"
+
+#: archive.php:72 author.php:52 category.php:51 front-page.php:101 index.php:27
+#: search.php:36 tag.php:51
+msgid "Next"
+msgstr "下一个"
+
+#: archive.php:71 author.php:51 category.php:50 front-page.php:100 index.php:26
+#: search.php:35 tag.php:50
+msgid "Previous"
+msgstr "上一"
+
+#: content.php:35 front-page.php:83
+msgid "by"
+msgstr "作者"
+
+#: content.php:28 front-page.php:76 single.php:60
+msgid "Read More"
+msgstr "阅读更多"
+
+#: search.php:27
+msgid "Nothing Found"
+msgstr "未找到"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/arzine-wordpress-page/"
+msgstr "https://webriti.com/arzine-wordpress-page/"

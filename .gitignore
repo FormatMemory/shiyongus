@@ -1,5 +1,9 @@
 # CakePHP 3
 
+*.wpress
+/wp-content/upgrade/*
+/wp-content/uploads/*
+/wp-content/ai1wm-backups/*
 /vendor/*
 /config/app.php
 

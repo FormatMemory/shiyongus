@@ -1,0 +1,258 @@
+
+
+li[id*="-simple_days_"] h3::before{
+	font-family:"dashicons";
+	font-weight: normal;
+    font-size: 24px;
+    float: left;
+    margin-right: 5px;
+}
+#accordion-section-simple_days_widget_setting h3::before{
+	content: "\f116";
+}
+#accordion-section-simple_days_google_ad_setteing h3::before,
+#available-widgets [id*='widget-tpl-s_d_go_res-'] .widget-title::before {
+	content: "\f524";
+}
+
+#accordion-panel-simple_days_setting h3::before{
+	content: "\f107";
+}
+
+#accordion-section-simple_days_google_analytics_setteing h3::before{
+	content: "\f239";
+}
+
+#accordion-section-simple_days_option h3::before {
+	content: "\f111";
+}
+
+#accordion-section-simple_days_posts h3::before {
+	content: "\f109";
+}
+
+#accordion-section-simple_days_page h3::before {
+	content: "\f105";
+}
+
+#accordion-section-simple_days_social_link_setting h3::before {
+	content: "\f237";
+}
+
+#accordion-section-simple_days_breadcrumbs h3::before {
+	content: "\f173";
+}
+
+#accordion-section-simple_days_ogp_setteing h3::before {
+	content: "\f128";
+}
+
+#accordion-section-simple_days_layout h3::before,
+#accordion-section-simple_days_layout_header h3::before,
+#accordion-section-simple_days_layout_footer h3::before{
+	content: "\f167";
+}
+
+#accordion-section-simple_days_amp_setting h3::before {
+	font-family:"FontAwesome" ,Arial;
+	content: "\f0e7";
+	margin-left:5px;
+    margin-right:10px;
+}
+
+#accordion-section-simple_days_sitemap_setteing h3::before {
+	content: "\f325";
+}
+
+#accordion-section-simple_days_toc_setting h3::before,
+#available-widgets [id*='widget-tpl-simple_days_toc_widget-'] .widget-title::before {
+	content: "\f203";
+}
+
+#accordion-section-simple_days_blog_card_setting h3::before {
+	content: "\f233";
+}
+
+#accordion-section-simple_days_social_account_setting h3::before {
+	content: "\f237";
+}
+
+#accordion-section-simple_days_social_cta_setting h3::before {
+	content: "\f488";
+}
+
+#accordion-section-simple_days_social_share_setting h3::before {
+	content: "\f242";
+}
+
+#accordion-section-simple_days_profile_setting h3::before {
+	content: "\f337";
+}
+#accordion-section-simple_days_script_css h3::before {
+	content: "\f499";
+}
+#accordion-section-simple_days_popular_post_setting h3::before,
+#available-widgets [id*='widget-tpl-simple_days_popular_post_widget-'] .widget-title::before {
+	content: "\f155";
+}
+#accordion-section-simple_days_word_balloon h3::before {
+	content: "\f101";
+}
+#accordion-section-simple_days_font_setting h3::before {
+	content: "\f326";
+}
+#accordion-section-simple_days_index_page_setting h3::before {
+	content: "\f102";
+}
+#accordion-section-simple_days_gutenberg_setting h3::before {
+	content: "\f489";
+}
+#accordion-section-simple_days_menu_bar h3::before {
+	content: "\f209";
+}
+#accordion-section-simple_days_alert_box_setting h3::before {
+	content: "\f348";
+}
+.highlighter {
+    background: linear-gradient(transparent 60%, #ff6 60%);
+}
+
+.simple_days_posts_sortable_ul{
+
+}
+.simple_days_posts_sortable_ul li{
+  padding: 5px 10px;
+  border: 1px solid #333;
+  background: #fff;
+  cursor: move;
+  touch-action: none;
+}
+.simple_days_posts_sortable_ul li i{
+  float: right;
+}
+
+#customize-control-simple_days_breadcrumbs_homeicon select,
+#customize-control-simple_days_breadcrumbs_treeicon select,
+#customize-control-simple_days_breadcrumbs_currenticon select,
+#customize-control-simple_days_social_share_title_icon select,
+#customize-control-simple_days_posts_author_icon select,
+#customize-control-simple_days_posts_date_icon select,
+#customize-control-simple_days_posts_up_date_icon select,
+#customize-control-simple_days_posts_category_icon select,
+#customize-control-simple_days_posts_tag_icon select,
+#customize-control-simple_days_page_author_icon select,
+#customize-control-simple_days_page_date_icon select,
+#customize-control-simple_days_page_up_date_icon select,
+#customize-control-simple_days_page_category_icon select,
+#customize-control-simple_days_page_tag_icon select,
+#customize-control-simple_days_popular_post_view_icon select,
+#customize-control-simple_days_alert_box_start_icon select,
+#customize-control-simple_days_alert_box_end_icon select,
+li[id*='simple_days_menu_bar_h_icon_'] select,
+li[id*='simple_days_menu_bar_f_icon_'] select{
+  font-family:"FontAwesome" ,Arial;
+}
+
+select#_customize-input-simple_days_skin_style option[value=blue_ocean]{
+ background:#0099cc;
+ color: #fff;
+}
+select#_customize-input-simple_days_skin_style option[value=apple_green]{
+ background:#8fc186;
+ color: #fff;
+}
+
+select#_customize-input-simple_days_skin_style option[value=grape_juice]{
+ background:#7e6f9a;
+ color: #fff;
+}
+select#_customize-input-simple_days_skin_style option[value=red_orange]{
+ background:#E53B2C;
+ color: #fff;
+}
+
+select#_customize-input-simple_days_skin_style option[value=black_coffee]{
+ background:#000;
+ color: #fff;
+}
+
+select#_customize-input-simple_days_skin_style option[value=blue_yellow]{
+ background:#06609e;
+ color: #f2df09;
+}
+select#_customize-input-simple_days_skin_style option[value=gray_horse]{
+ background:#717171;
+ color: #67daf9;
+}
+select#_customize-input-simple_days_skin_style option[value=brown_bread]{
+ background:#ab5533;
+ color: #ffb777;
+}
+select#_customize-input-simple_days_skin_style option[value=yellow_mustard]{
+ background:#ffd700;
+ color: #000;
+}
+select#_customize-input-simple_days_skin_style option[value=rose_peche]{
+ background:#E75685;
+ color: #fff;
+}
+select#_customize-input-simple_days_skin_style option[value=petrole]{
+ background:#007d7f;
+ color: #fff;
+}
+select#_customize-input-simple_days_skin_style option[value=orange]{
+ background:#ef810f;
+ color: #fff;
+}
+select#_customize-input-simple_days_skin_style option[value=moss_green]{
+ background:#777e41;
+ color: #fff;
+}
+select#_customize-input-simple_days_skin_style option[value=cinnamon]{
+ background:#be8f68;
+ color: #fff;
+}
+#customize-control-simple_days_web_safe_fonts_info .customize-control-title,
+#customize-control-simple_days_google_fonts_info .customize-control-title,
+#customize-control-simple_days_local_fonts_japanese_info .customize-control-title,
+#customize-control-simple_days_google_fonts_japanese_info .customize-control-title,
+#customize-control-simple_days_google_ad_responsive_info .customize-control-title,
+#customize-control-simple_days_google_ad_infeed_info .customize-control-title,
+#customize-control-simple_days_google_ad_inarticle_info .customize-control-title,
+#customize-control-simple_days_gutenberg_block_info .customize-control-title,
+#customize-control-simple_days_menu_bar_h_icon_info .customize-control-title,
+#customize-control-simple_days_menu_bar_f_icon_info .customize-control-title{
+
+ display: block;
+ text-align: center;
+ background:#000;
+ color:#fff;
+}
+
+
+
+
+
+.customize-control-radio-image input[type="radio"] {
+    visibility: hidden;
+    position: absolute;
+}
+
+
+.customize-control-radio-image img {
+    border: 4px solid transparent;
+    box-sizing: border-box;
+    cursor: pointer;
+    height: auto;
+    max-width: 100%;
+    padding: 1px;
+}
+
+
+.customize-control-radio-image input:checked + img {
+    border-color: #00a0d2;
+}
+#customize-controls img.s_d_input_image_layout{
+	max-width:64px;
+}
+
